@@ -27,4 +27,4 @@
 
 ### 5 - Automaten und formale Sprachen
 
-### 6 -Projektmanagement
+### 6 - Projektmanagement
