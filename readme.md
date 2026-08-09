@@ -22,9 +22,9 @@
 
 ### 3 - Rechner und Netze
 
-### 4 -Informationsgesellschaft und Datensicherheit
+### 4 - Informationsgesellschaft und Datensicherheit
 
 
-### 5 -Automaten und formale Sprachen
+### 5 - Automaten und formale Sprachen
 
 ### 6 -Projektmanagement
