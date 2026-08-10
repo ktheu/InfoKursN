@@ -3,9 +3,8 @@
 
 #### Bitebene
 
-- [Codierung negativer Zahlen](./11_duC_bitebene/11_inhalte.ipynb)
-- [ASCII, Unicode und UTF-8](./11_duC_bitebene/12_inhalte2.ipynb)
-- [Huffman-Algorithmus, Merkmale von Codes](./11_duC_bitebene/13_inhalte3.ipynb)
+- [Codierung negativer Zahlen](https://github.com/ktheu/InfoKursN/blob/main/11_duC_bitebene/11_inhalte.ipynb)  - [ASCII, Unicode und UTF-8](https://github.com/ktheu/InfoKursN/blob/main/11_duC_bitebene/11_inhalte2.ipynb)
+- [Huffman-Algorithmus, Merkmale von Codes](https://github.com/ktheu/InfoKursN/blob/main/11_duC_bitebene/11_inhalte3.ipynb)
 
 #### Datenstrukturen
 
