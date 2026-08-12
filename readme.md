@@ -10,6 +10,8 @@
 
 #### Datenstrukturen
 
+- [ADT Liste](https://github.com/ktheu/InfoKursN/blob/main/12_duC_datenstrukturen/adtListe/liste.ipynb) - [Aufgaben](./12_duC_datenstrukturen/adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./12_duC_datenstrukturen/adtListe/aufgaben/aufgaben_loes.pdf)
+
 
 #### Relationale Datenbanksysteme
 
