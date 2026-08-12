@@ -82,3 +82,5 @@ __pypackages__/
 # OS files
 .DS_Store
 Thumbs.db
+
+/pool

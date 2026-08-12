@@ -3,8 +3,8 @@
 
 #### Bitebene
 
-- [Codierung negativer Zahlen](https://github.com/ktheu/InfoKursN/blob/main/11_duC_bitebene/11_inhalte.ipynb) - [Aufgaben](./11_duC_zweierkomplement/aufgaben/aufgaben.pdf) - [Lösungen](./11_duC_zweierkomplement/aufgaben/aufgaben_loes.pdf)
-- 
+- [Codierung negativer Zahlen](https://github.com/ktheu/InfoKursN/blob/main/11_duC_zweierkomplement/11_inhalte.ipynb) - [Aufgaben](./11_duC_zweierkomplement/aufgaben/aufgaben.pdf) - [Lösungen](./11_duC_zweierkomplement/aufgaben/aufgaben_loes.pdf)
+
 - [Huffman-Algorithmus, Merkmale von Codes](https://github.com/ktheu/InfoKursN/blob/main/11_duC_bitebene/11_inhalte3.ipynb)
 
 #### Datenstrukturen
