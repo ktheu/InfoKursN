@@ -12,6 +12,8 @@
 
 - [ADT Liste](https://github.com/ktheu/InfoKursN/blob/main/adtListe/liste.ipynb) - [Aufgaben](./adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./adtListe/aufgaben/aufgaben_loes.pdf)
 
+- [Binärer Baum](https://github.com/ktheu/InfoKursN/blob/main/binaerbaum/binaerbaum.ipynb) - [Aufgaben](./binaerbaum/aufgaben/aufgaben.pdf) - [Lösungen](./binaerbaum/aufgaben/aufgaben_loes.pdf)
+
 
 #### Relationale Datenbanksysteme
 
