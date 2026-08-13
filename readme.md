@@ -15,7 +15,7 @@
 
 #### Relationale Datenbanksysteme
 
-- [Inhalte](https://github.com/ktheu/InfoKursN/blob/main/13_duC_datenbanken/datenbanken.ipynb) - [Aufgaben](./13_duC_datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./13_duC_datenbanken/aufgaben/aufgaben_loes.pdf)
+- [Inhalte](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/datenbanken.ipynb) - [Aufgaben](./datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./datenbanken/aufgaben/aufgaben_loes.pdf)
 
 
 ### 2 - Algorithmen 
