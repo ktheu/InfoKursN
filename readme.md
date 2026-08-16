@@ -12,11 +12,11 @@
 
 - [ADT Liste](https://github.com/ktheu/InfoKursN/blob/main/adtListe/liste.ipynb) - [Aufgaben](./adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./adtListe/aufgaben/aufgaben_loes.pdf)
 
-- [ADT Keller und Schlange](https://github.com/ktheu/InfoKursN/blob/main/KellerSchlange/keller_schlange.ipynb)  
+- [ADT Keller und Schlange](https://github.com/ktheu/InfoKursN/blob/main/kellerSchlange/kellerSchlange.ipynb)  
 
 - [Binärer Baum](https://github.com/ktheu/InfoKursN/blob/main/binaerbaum/binaerbaum.ipynb) - [Aufgaben](./binaerbaum/aufgaben/aufgaben.pdf) - [Lösungen](./binaerbaum/aufgaben/aufgaben_loes.pdf)
 
-- [Graphen](https://github.com/ktheu/InfoKursN/blob/main/graphen/graphen1.ipynb) 
+- [Graphen](https://github.com/ktheu/InfoKursN/blob/main/graphen/graphen.ipynb) 
 
 
 #### Relationale Datenbanksysteme
