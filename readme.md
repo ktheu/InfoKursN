@@ -1,6 +1,4 @@
 
-
-
 - [Codierung negativer Zahlen](https://github.com/ktheu/InfoKursN/blob/main/zweierkomplement/zweierkomplement.ipynb) - [Aufgaben](./zweierkomplement/aufgaben/aufgaben.pdf) - [Lösungen](./zweierkomplement/aufgaben/aufgaben_loes.pdf)
 
 - [Huffman-Algorithmus, Merkmale von Codes](https://github.com/ktheu/InfoKursN/blob/main/huffman/huffman.ipynb) -
@@ -12,19 +10,17 @@
 
 - [Operationen auf Strings](https://github.com/ktheu/InfoKursN/blob/main/strings/strings.ipynb)
 
-- [Listen, Dictionaries, Sets]()
+- [Operationen auf Listen]
 
-- [Funktionen]()
+- [Tuples, Dictionaries, Sets]
 
-- [Speicheradressen]()
+- [Funktionen]
 
-- [Veränderbarkeit]()
+- [Speicheradressen und Veränderbarkeit] 
 
 ----
 
-- Lineare Suche
-
-- Binäre Suche
+- [Lineare Suche und binäre Suche]
 
 -----
 
