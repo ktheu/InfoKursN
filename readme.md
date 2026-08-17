@@ -28,7 +28,7 @@
 
 #### Strukturierte und objektorientierte Programmierung
 
-- [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablenDatentypen/variablen.ipynb)
+- [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablen/variablen.ipynb)
 
 - [Operationen auf Strings]()
 
