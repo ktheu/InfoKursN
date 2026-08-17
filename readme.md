@@ -10,7 +10,7 @@
 
 - [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablen/variablen.ipynb)
 
-- [Operationen auf Strings]()
+- [Operationen auf Strings](https://github.com/ktheu/InfoKursN/blob/main/strings/strings.ipynb)
 
 - [Listen, Dictionaries, Sets]()
 
@@ -64,7 +64,7 @@
 
 -----
 
-- Funktionsweise eines Rechnern
+- Funktionsweise eines Rechners
 
 -----
 
