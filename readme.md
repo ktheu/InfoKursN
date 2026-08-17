@@ -28,6 +28,23 @@
 
 #### Strukturierte und objektorientierte Programmierung
 
+- [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablenDatentypen/variablen.ipynb)
+
+- [Operationen auf Strings]()
+
+- [Listen, Dictionaries, Sets]()
+
+- [Funktionen]()
+
+- [Speicheradressen]()
+
+- [Veränderbarkeit]()
+
+- [Klassen und Objekte]()
+
+- [Nassi-Shneiderman-Diagramme und Pseudocode]()
+
+
 #### Algorithmen auf Datenstrukturen
 
 
