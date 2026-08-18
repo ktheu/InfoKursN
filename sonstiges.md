@@ -5,6 +5,9 @@
 
 [Brückenkurs alte Version](https://ktheu.github.io/Brueckenkurs/)
 
+[Infokurs alte Version](https://ktheu.github.io/InfoKurs/)
+
+
 ----------
 
 [MathePlus](https://ktheu.github.io/MathePlus/)
