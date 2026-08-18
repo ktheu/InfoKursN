@@ -1,4 +1,4 @@
-### Brückenkurs
+### Brückenkurs Informatik
 
 -------
 
