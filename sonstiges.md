@@ -7,9 +7,9 @@
 
 ----------
 
-**[MathePlus](https://ktheu.github.io/MathePlus/)**
+[MathePlus](https://ktheu.github.io/MathePlus/)
 
-**[Mathe mit Python](https://ktheu.github.io/MatheMitPython/)**
+[Mathe mit Python](https://ktheu.github.io/MatheMitPython/)
 
 ----------
 
