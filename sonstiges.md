@@ -3,6 +3,13 @@
 
 ----------
 
+[Rekursive Bilder](./rekursiveBilder/rekursiveBilder.ipynb)
+
+[Mandelbrotmenge](./mandelbrot/mandelbrot.ipynb)
+
+
+----------
+
 [Brückenkurs alte Version](https://ktheu.github.io/Brueckenkurs/)
 
 [Infokurs alte Version](https://ktheu.github.io/InfoKurs/)
