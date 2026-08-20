@@ -1,7 +1,8 @@
+### Basiskurs Informatik
 
-- [Codierung negativer Zahlen](https://github.com/ktheu/InfoKursN/blob/main/zweierkomplement/zweierkomplement.ipynb) - [Aufgaben](./zweierkomplement/aufgaben/aufgaben.pdf) - [Lösungen](./zweierkomplement/aufgaben/aufgaben_loes.pdf)
+- [Zweierkomplement](./zweierkomplement/zweierkomplement.ipynb) - [Aufgaben](./zweierkomplement/aufgaben/aufgaben.pdf) - [Lösungen](./zweierkomplement/aufgaben/aufgaben_loes.pdf)
 
-- [Huffman-Algorithmus, Merkmale von Codes](https://github.com/ktheu/InfoKursN/blob/main/huffman/huffman.ipynb) -
+- [Huffman-Algorithmus](./huffman/huffman.ipynb) -
     [Aufgaben](./huffman/aufgaben/aufgaben.pdf) - [Lösungen](./huffman/aufgaben/aufgaben_loes.pdf)
 
 -----
@@ -14,57 +15,58 @@
 
 - [Tuples, Dictionaries, Sets]
 
-- [Funktionen]
+- [Funktionen](./funktionen/funktionen.ipynb) - [Aufgaben](./funktionen/aufgaben/aufgaben.pdf) - [Lösungen](./funktionen/aufgaben/aufgaben_loes.pdf)
 
-- [Speicheradressen und Veränderbarkeit] 
+- [Speicheradressen](./speicheradressen/speicheradressen.ipynb) - [Aufgaben](./speicheradressen/aufgaben/aufgaben.pdf) - [Lösungen](./speicheradressen/aufgaben/aufgaben_loes.pdf)
+ 
+- [Veränderbarkeit](./veraenderbarkeit/veraenderbarkeit.ipynb) - [Aufgaben](./veraenderbarkeit/aufgaben/aufgaben.pdf) - [Lösungen](./veraenderbarkeit/aufgaben/aufgaben_loes.pdf)
 
 ----
 
-- [Lineare Suche und binäre Suche]
+- [Binäre Suche](./binaereSuche/binaereSuche.ipynb) - [Aufgaben](./binaereSuche/aufgaben/aufgaben.pdf) - [Lösungen](./binaereSuche/aufgaben/aufgaben_loes.pdf)
+
+- [Rekursion](./rekursion/rekursion.ipynb) - [Aufgaben](./rekursion/aufgaben/aufgaben.pdf) - [Lösungen](./rekursion/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Rekursion 
+- [Komplexität](./komplexitaet/komplexitaet.ipynb) - [Aufgaben](./komplexitaet/aufgaben/aufgaben.pdf) - [Lösungen](./komplexitaet/aufgaben/aufgaben_loes.pdf)
+
+- [SelectionSort, InsertionSort, BubbleSort, MergeSort, QuickSort](./sort/sort.ipynb) - [Aufgaben](./sort/aufgaben/aufgaben.pdf) - [Lösungen](./sort/aufgaben/aufgaben_loes.pdf)
+
+- [HeapSort](./heapsort/heapsort.ipynb) - [Aufgaben](./heapsort/aufgaben/aufgaben.pdf) - [Lösungen](./heapsort/aufgaben/aufgaben_loes.pdf)
+
+- [Sort in Python](./sortInPython/sortInPython.ipynb) - [Aufgaben](./sortInPython/aufgaben/aufgaben.pdf) - [Lösungen](./sortInPython/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Komplexität 
-
-- Sortieralgorithmen: Selection Sort, Insertion Sort, Bubble Sort, Merge Sort, Quicksort
+- [Klassen und Objekte](./klassen/klassen.ipynb) - [Aufgaben](./klassen/aufgaben/aufgaben.pdf) - [Lösungen](./klassen/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Klassen und Objekte
+- [ADT Liste](./adtListe/adtListe.ipynb) - [Aufgaben](./adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./adtListe/aufgaben/aufgaben_loes.pdf)
+
+- [ADT Keller und Schlange](./adtKellerSchlange/adtKellerSchlange.ipynb) - [Aufgaben](./adtKellerSchlange/aufgaben/aufgaben.pdf) - [Lösungen](./adtKellerSchlange/aufgaben/aufgaben_loes.pdf)
+
+- [Binärer Baum](./binaerbaum/binaerbaum.ipynb) - [Aufgaben](./binaerbaum/aufgaben/aufgaben.pdf) - [Lösungen](./binaerbaum/aufgaben/aufgaben_loes.pdf)
+
+- [Graphen](./graphen/graphen.ipynb) - [Aufgaben](./graphen/aufgaben/aufgaben.pdf) - [Lösungen](./graphen/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- ADT Liste
-  
-- ADT Keller und Schlange
+- [Kryptologie](./kryptologie/kryptologie.ipynb) - [Aufgaben](./kryptologie/aufgaben/aufgaben.pdf) - [Lösungen](./kryptologie/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Binärer Baum, Binärer Suchbaum 
+- [Datenbanken](./datenbanken/datenbanken.ipynb) - [Aufgaben](./datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./datenbanken/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Graphen
+- [Funktionsweise eines Rechners](./rechner/rechner.ipynb) - [Aufgaben](./rechner/aufgaben/aufgaben.pdf) - [Lösungen](./rechner/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Kryptologie
+- [Automaten und formale Sprachen](./automaten/automaten.ipynb) - [Aufgaben](./automaten/aufgaben/aufgaben.pdf) - [Lösungen](./automaten/aufgaben/aufgaben_loes.pdf)
 
 -----
 
-- Datenbanken
-
------
-
-- Funktionsweise eines Rechners
-
------
-
-- Automaten und formale Sprachen
-
-
-
+- [Tagebuch](./basiskurs2026_27.md)
