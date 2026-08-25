@@ -15,15 +15,15 @@
 
 #### Algorithmen
 
-[Einführung, Thonny](https://github.com/ktheu/InfoKursN/blob/main/einfuehrung/einfuehrung.ipynb) - [Aufgaben](./einfuehrung/aufgaben/aufgaben.pdf) - [Lösungen](./einfuehrung/aufgaben/aufgaben_loes.pdf)
+[Einführung, Thonny](https://github.com/ktheu/InfoKursN/blob/main/einfuehrung/einfuehrung.ipynb) - [Aufgaben](./einfuehrung/aufgaben/aufgaben.pdf) - [Lösungen](./einfuehrung/aufgaben/aufgaben_loes.pdf)   
 
-[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf)
+[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen_uebungen.ipynb)
 
-[Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf)
+[Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen_uebungen.ipynb)
 
-[Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf)
+[Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/listen/listen_uebungen.ipynb)
 
-[Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/InfoKursN/blob/main/fehler/fehler.ipynb) - [Aufgaben](./fehler/aufgaben/aufgaben.pdf) - [Lösungen](./fehler/aufgaben/aufgaben_loes.pdf)
+[Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/InfoKursN/blob/main/fehler/fehler.ipynb) - [Aufgaben](./fehler/aufgaben/aufgaben.pdf) - [Lösungen](./fehler/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/fehler/fehler_uebungen.ipynb)
 
 ------
 
