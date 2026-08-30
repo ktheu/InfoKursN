@@ -38,7 +38,7 @@
 
 #### Informationsgesellschaft und Datensicherheit
 
-[Inhalte](https://github.com/ktheu/InfoKursN/blob/main/datensicherheit1/datensicherheit1.ipynb) - [Aufgaben](./datensicherheit1/aufgaben/aufgaben.pdf) - [Lösungen](./datensicherheit1/aufgaben/aufgaben_loes.pdf)
+[Inhalte](https://github.com/ktheu/InfoKursN/blob/main/inhalte/datensicherheit1/datensicherheit1.ipynb) - [Aufgaben](./datensicherheit1/aufgaben/aufgaben.pdf) - [Lösungen](./datensicherheit1/aufgaben/aufgaben_loes.pdf)
 
 
 --------
