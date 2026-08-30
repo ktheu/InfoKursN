@@ -62,7 +62,9 @@
 
 #### Informationsgesellschaft und Datensicherheit
 
-- [Kryptologie](https://github.com/ktheu/InfoKursN/blob/main/kryptologie/kryptologie.ipynb) - [Aufgaben](./kryptologie/aufgaben/aufgaben.pdf) - [Lösungen](./kryptologie/aufgaben/aufgaben_loes.pdf)
+<!-- - [Kryptologie](https://github.com/ktheu/InfoKursN/blob/main/kryptologie/kryptologie.ipynb) - [Aufgaben](./kryptologie/aufgaben/aufgaben.pdf) - [Lösungen](./kryptologie/aufgaben/aufgaben_loes.pdf) -->
+
+- [Inhalte](https://github.com/ktheu/InfoKursN/blob/main/datensicherheit2/inhalte/datensicherheit2.ipynb) - [Aufgaben](./datensicherheit2/aufgaben/aufgaben.pdf) - [Lösungen](./datensicherheit2/aufgaben/aufgaben_loes.pdf)
 
 
 
