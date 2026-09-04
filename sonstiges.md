@@ -3,9 +3,9 @@
 
 ----------
 
-[Rekursive Bilder](./rekursiveBilder/rekursiveBilder.ipynb)
+[Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
 
-[Mandelbrotmenge](./mandelbrot/mandelbrot.ipynb)
+[Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
 
 
 ----------
