@@ -44,3 +44,5 @@
 --------
 
 [Tagebuch](./brueckenkurs2026_27.md)
+
+[AlgoBwinf](https://algo.bwinf.de/)
