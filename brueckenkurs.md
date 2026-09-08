@@ -4,7 +4,7 @@
 
 #### Algorithmen
 
-[Einführung, Thonny](https://github.com/ktheu/InfoKursN/blob/main/einfuehrung/einfuehrung.ipynb) - [Aufgaben](./einfuehrung/aufgaben/aufgaben.pdf) - [Lösungen](./einfuehrung/aufgaben/aufgaben_loes.pdf)   
+[Einführung, Thonny](https://github.com/ktheu/InfoKursN/blob/main/einfuehrung/inhalte/einfuehrung.ipynb) - [Aufgaben](./einfuehrung/aufgaben/aufgaben.pdf) - [Lösungen](./einfuehrung/aufgaben/aufgaben_loes.pdf)   
 
 [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_einfuehrung.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_uebungen.ipynb)
 
@@ -43,6 +43,8 @@
 
 --------
 
+
 [AlgoBwinf](https://algo.bwinf.de/)
+
 
 [Tagebuch](./brueckenkurs2026_27.md)
