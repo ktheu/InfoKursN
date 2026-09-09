@@ -10,6 +10,8 @@
 
 [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
 
+[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_einfuehrung.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_uebungen.ipynb)
+
 
 ----------
 
