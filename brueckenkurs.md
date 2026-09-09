@@ -8,7 +8,7 @@
 
 [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_einfuehrung.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_uebungen.ipynb)
 
-[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen_uebungen.ipynb)
+[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_arbeitsblatt.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/grundlagen_uebungen.ipynb)
 
 [Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen_uebungen.ipynb)
 
