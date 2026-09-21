@@ -12,6 +12,8 @@
 
 [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_einfuehrung.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_uebungen.ipynb)
 
+[Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb)
+
 
 ----------
 
