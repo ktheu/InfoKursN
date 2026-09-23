@@ -45,4 +45,4 @@
 [AlgoBwinf](https://algo.bwinf.de/)
 
 
-[Tagebuch](./brueckenkurs2026_27.html)
+[Tagebuch](./brueckenkurs2026_27.md)
