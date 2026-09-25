@@ -70,8 +70,7 @@
 
 #### Datenbanken
 
-- [Datenbanken](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/datenbanken.ipynb) - [Aufgaben](./datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./datenbanken/aufgaben/aufgaben_loes.pdf)
-
+- [Datenbanken](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/datenbanken.ipynb) - [Aufgaben](./datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./datenbanken/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/uebungen/sql_uebungen.ipynb)  
 
 
 #### Rechner und Netze
