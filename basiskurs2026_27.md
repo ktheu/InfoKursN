@@ -3,8 +3,8 @@
 - 17.09.2026 Entfall
 - 18.09.2026 Entfall  
 - 24.09.2026 Datenbanken - bis ER-Modell, Aufgaben 1-7
-- 01.10.2026 Datenbanken - bis einschließlich Normalisierung, baumarkt-Aufgabe
-- 02.10.2026
+- 01.10.2026 Datenbanken - bis einschließlich Normalisierung, Baumarkt-Aufgabe
+- 02.10.2026 Datenbanken - Übungen zum Entwurf: Musikschule-Aufgabe, Aufgaben 8-13
 - 08.10.2026
 - 15.10.2026
 - 16.10.2026
