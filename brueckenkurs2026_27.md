@@ -2,7 +2,7 @@
 
 - 16.09.2026: Entfall
 - 23.09.2026: Einführung, Collatz, Thonny, algo.bwinf 
-- 30.09.2026:
+- 30.09.2026: Exkursionstag
 - 07.10.2026:
 - 14.10.2026:
 - 21.10.2026:

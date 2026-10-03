@@ -42,7 +42,7 @@
 --------
 
 
-[AlgoBwinf](https://algo.bwinf.de/)
+[AlgoBwinf](https://algo.bwinf.de/) - [Jwinf](https://jwinf.de/contest/training) 
 
 
 [Tagebuch](./brueckenkurs2026_27.md)
