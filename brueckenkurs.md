@@ -8,7 +8,7 @@
 
 [Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/inhalte/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_arbeitsblatt.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/uebungen/grundlagen_uebungen.ipynb)
 
-[Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/bedingungen_uebungen.ipynb)
+[Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/inhalte/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/uebungen/bedingungen_uebungen.ipynb)
 
 [Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/listen/listen_uebungen.ipynb)
 
