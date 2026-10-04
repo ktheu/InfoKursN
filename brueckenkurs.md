@@ -10,7 +10,7 @@
 
 [Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/inhalte/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/uebungen/bedingungen_uebungen.ipynb)
 
-[Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/listen/listen_uebungen.ipynb)
+[Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/inhalte/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/listen/uebungen/listen_uebungen.ipynb)
 
 [Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/InfoKursN/blob/main/fehler/fehler.ipynb) - [Aufgaben](./fehler/aufgaben/aufgaben.pdf) - [Lösungen](./fehler/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/fehler/fehler_uebungen.ipynb)
 
