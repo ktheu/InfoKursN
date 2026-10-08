@@ -10,9 +10,9 @@
 
 [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
 
-[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_aufruf.ipynb)
+[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
 
-[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_einfuehrung.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/jupyter/jupyter_uebungen.ipynb)
+[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_einfuehrung.ipynb) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_uebungen.ipynb)
 
 [Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb)
 
