@@ -3,7 +3,7 @@
 - 16.09.2026: Entfall
 - 23.09.2026: Einführung, Collatz, Thonny, algo.bwinf 
 - 30.09.2026: Exkursionstag
-- 07.10.2026:
+- 07.10.2026: Grundlagen bis GL3 (einschließlich), Jupyter Notebooks - HA: Aufgaben 1-4 + Aufgaben Einführung
 - 14.10.2026:
 - 21.10.2026:
 - Herbstferien
