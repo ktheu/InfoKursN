@@ -6,7 +6,7 @@
 
 [Einführung, Thonny](https://github.com/ktheu/InfoKursN/blob/main/einfuehrung/inhalte/einfuehrung.ipynb) - [Aufgaben](./einfuehrung/aufgaben/aufgaben.pdf) - [Lösungen](./einfuehrung/aufgaben/aufgaben_loes.pdf)   
 
-[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/inhalte/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf)  
+[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/inhalte/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/uebungen/grundlagen_uebungen.ipynb)
 
 [Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/inhalte/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/uebungen/bedingungen_uebungen.ipynb)
 
