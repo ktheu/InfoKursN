@@ -70,7 +70,7 @@
 
 #### Datenbanken
 
-- [Datenbanken](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/inhalte/datenbanken.ipynb) - [SQLite](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/inhalte/sqlite.ipynb) - [S](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/inhalte/sqlite_self.ipynb)- [Aufgaben](./datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./datenbanken/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/uebungen/sql_uebungen.ipynb)  
+- [Datenbanken](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/inhalte/datenbanken.ipynb) - [SQLite](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/inhalte/sqlite.ipynb) - [Aufgaben](./datenbanken/aufgaben/aufgaben.pdf) - [Lösungen](./datenbanken/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/datenbanken/uebungen/sql_uebungen.ipynb)  
 
 
 #### Rechner und Netze
