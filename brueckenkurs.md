@@ -30,7 +30,7 @@
 
 #### Rechner und Netze
 
-[Netze](https://github.com/ktheu/InfoKursN/blob/main/netze/netze.ipynb) - [Aufgaben](./netze/aufgaben/aufgaben.pdf) - [Lösungen](./netze/aufgaben/aufgaben_loes.pdf)
+[Netze](https://github.com/ktheu/InfoKursN/blob/main/netze/inhalte/netze.ipynb) - [Aufgaben](./netze/aufgaben/aufgaben.pdf) - [Lösungen](./netze/aufgaben/aufgaben_loes.pdf)
 
 -------
 
