@@ -6,6 +6,8 @@
 
 ----------
 
+[Python-Übungen](./python_uebungen/inhalte.md)
+
 
 [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
 
