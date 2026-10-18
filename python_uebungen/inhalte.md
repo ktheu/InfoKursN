@@ -1,12 +1,17 @@
 ### Python-Übungen
 
-- [Strings](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/strings.ipynb)
-- [Listen](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/listen.ipynb)
-- [Tupel](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/tupel.ipynb)
-- [Dictionaries](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/dictionaries.ipynb)
-- [Sets](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/sets.ipynb)
-- [Funktionen](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/funktionen.ipynb)
-- [Dateien](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/dateien.ipynb)
-- [Random](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/random.ipynb)
-- [Itertools](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/itertools.ipynb)
-- [Grids](https://github.com/ktheu/InfoKursN/blob/main/python_uebungen/grids.ipynb)
+Die Notebooks laufen direkt im Browser, ohne Installation. Beim ersten Ausführen dauert es ein paar Sekunden, bis Python geladen ist.
+Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt das Notebook herunter (*File → Download*).
+
+- [Bedingungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=bedingungen.ipynb)
+- [Schleifen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=schleifen.ipynb)
+- [Strings](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=strings.ipynb)
+- [Listen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=listen.ipynb)
+- [Tupel](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=tupel.ipynb)
+- [Dictionaries](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=dictionaries.ipynb)
+- [Sets](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=sets.ipynb)
+- [Funktionen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=funktionen.ipynb)
+- [Dateien](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=dateien.ipynb)
+- [Random](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=random.ipynb)
+- [Itertools](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=itertools.ipynb)
+- [Grids](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=grids.ipynb)
