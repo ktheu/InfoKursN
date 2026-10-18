@@ -8,6 +8,8 @@
 
 [Python-Übungen](https://github.com/ktheu/python-uebungen/blob/main/README.md)
 
+---------
+
 
 [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
 
