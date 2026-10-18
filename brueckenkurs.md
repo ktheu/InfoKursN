@@ -6,13 +6,13 @@
 
 [Einführung, Thonny](https://github.com/ktheu/InfoKursN/blob/main/einfuehrung/inhalte/einfuehrung.ipynb) - [Aufgaben](./einfuehrung/aufgaben/aufgaben.pdf) - [Lösungen](./einfuehrung/aufgaben/aufgaben_loes.pdf)   
 
-[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/inhalte/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/uebungen/grundlagen_uebungen.ipynb)
+[Grundlagen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/inhalte/grundlagen.ipynb) - [Aufgaben](./grundlagen/aufgaben/aufgaben.pdf) - [Lösungen](./grundlagen/aufgaben/aufgaben_loes.pdf) - <!-- [Übungen](https://github.com/ktheu/InfoKursN/blob/main/grundlagen/uebungen/grundlagen_uebungen.ipynb) --> [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=grundlagen_uebungen.ipynb)
 
-[Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/inhalte/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/uebungen/bedingungen_uebungen.ipynb)
+[Bedingungen und Schleifen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/inhalte/bedingungen.ipynb) - [Aufgaben](./bedingungen/aufgaben/aufgaben.pdf) - [Lösungen](./bedingungen/aufgaben/aufgaben_loes.pdf) - <!-- [Übungen](https://github.com/ktheu/InfoKursN/blob/main/bedingungen/uebungen/bedingungen_uebungen.ipynb) --> [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bedingungen_uebungen.ipynb)
 
-[Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/inhalte/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/listen/uebungen/listen_uebungen.ipynb)
+[Listen, Zufall, Funktionen, Dateien](https://github.com/ktheu/InfoKursN/blob/main/listen/inhalte/listen.ipynb) - [Aufgaben](./listen/aufgaben/aufgaben.pdf) - [Lösungen](./listen/aufgaben/aufgaben_loes.pdf) - <!-- [Übungen](https://github.com/ktheu/InfoKursN/blob/main/listen/uebungen/listen_uebungen.ipynb) --> [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=listen_uebungen.ipynb)
 
-[Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/InfoKursN/blob/main/fehler/inhalte/fehler.ipynb) - [Aufgaben](./fehler/aufgaben/aufgaben.pdf) - [Lösungen](./fehler/aufgaben/aufgaben_loes.pdf) - [Übungen](https://github.com/ktheu/InfoKursN/blob/main/fehler/uebungen/fehler_uebungen.ipynb)
+[Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/InfoKursN/blob/main/fehler/inhalte/fehler.ipynb) - [Aufgaben](./fehler/aufgaben/aufgaben.pdf) - [Lösungen](./fehler/aufgaben/aufgaben_loes.pdf) - <!-- [Übungen](https://github.com/ktheu/InfoKursN/blob/main/fehler/uebungen/fehler_uebungen.ipynb) --> [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=fehler_uebungen.ipynb)
 
 
 -------
