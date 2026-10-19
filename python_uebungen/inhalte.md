@@ -21,3 +21,4 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [numpy: Filtern und Auswählen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_filtern.ipynb)
 - [numpy: Zweidimensionale Arrays](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_2d.ipynb)
 - [numpy: Zufall und Statistik](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_zufall_statistik.ipynb)
+- [numpy: Mathematik](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_mathe.ipynb)
