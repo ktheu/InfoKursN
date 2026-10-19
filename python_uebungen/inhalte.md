@@ -24,3 +24,4 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [numpy: Mathematik](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_mathe.ipynb)
 - [matplotlib: Grundlagen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_grundlagen.ipynb)
 - [matplotlib: Diagrammtypen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_diagrammtypen.ipynb)
+- [matplotlib: Layout, Bilder und Heatmaps](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_layout.ipynb)
