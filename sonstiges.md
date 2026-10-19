@@ -33,6 +33,8 @@
 
 [Mathe mit Python](https://ktheu.github.io/MatheMitPython/)
 
+[Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks im Browser
+
 
 ----------
 
