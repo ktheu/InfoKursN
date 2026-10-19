@@ -20,6 +20,8 @@
 
 ----------
 
+[JupyterLite](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyterlite.ipynb) - Jupyter Notebooks im Browser
+
 [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
 
 [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter.ipynb) - Einführung 
