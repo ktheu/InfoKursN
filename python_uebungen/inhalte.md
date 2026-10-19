@@ -26,3 +26,4 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [matplotlib: Diagrammtypen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_diagrammtypen.ipynb)
 - [matplotlib: Layout, Bilder und Heatmaps](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_layout.ipynb)
 - [matplotlib: Anwendungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_anwendungen.ipynb)
+- [SQL-Abfragen mit SQLite](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=sql_abfragen.ipynb)
