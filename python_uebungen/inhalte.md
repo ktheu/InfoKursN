@@ -15,3 +15,4 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [Random](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=random.ipynb)
 - [Itertools](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=itertools.ipynb)
 - [Grids](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=grids.ipynb)
+- [Reguläre Ausdrücke](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=regulaereAusdruecke.ipynb)
