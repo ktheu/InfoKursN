@@ -38,11 +38,7 @@
 
 ----------
 
-[Brückenkurs alte Version](https://ktheu.github.io/Brueckenkurs/)
-
-[Infokurs alte Version](https://ktheu.github.io/InfoKurs/)
-
-[Sonstiges alte Version](https://ktheu.github.io/PythonThemen/)
+[Altes Material](./altes.md)
 
 
 
