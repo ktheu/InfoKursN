@@ -17,6 +17,7 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [Grids](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=grids.ipynb)
 - [Reguläre Ausdrücke](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=regulaereAusdruecke.ipynb)
 - [Datum und Uhrzeit](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=datetime.ipynb)
+- [Das Modul collections](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=collections.ipynb)
 - [numpy: Grundlagen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_grundlagen.ipynb)
 - [numpy: Filtern und Auswählen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_filtern.ipynb)
 - [numpy: Zweidimensionale Arrays](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=numpy_2d.ipynb)
