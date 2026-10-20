@@ -85,4 +85,4 @@
 
 -----
 
-- [Tagebuch](./basiskurs2026_27.md)
+- [Tagebuch](./basiskurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md)

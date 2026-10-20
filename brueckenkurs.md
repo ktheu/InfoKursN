@@ -14,10 +14,6 @@
 
 [Fehler, Debugger, Einfache Algorithmen](https://github.com/ktheu/InfoKursN/blob/main/fehler/inhalte/fehler.ipynb) - [Aufgaben](./fehler/aufgaben/aufgaben.pdf) - [Lösungen](./fehler/aufgaben/aufgaben_loes.pdf) - <!-- [Übungen](https://github.com/ktheu/InfoKursN/blob/main/fehler/uebungen/fehler_uebungen.ipynb) --> [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=fehler_uebungen.ipynb)
 
-
-[Merkhilfe](./merkhilfen/pythonA.pdf)
-
-
 -------
 
 #### Daten und Codierung
@@ -48,4 +44,4 @@
 [AlgoBwinf](https://algo.bwinf.de/) - [Jwinf](https://jwinf.de/contest/training) 
 
 
-[Tagebuch](./brueckenkurs2026_27.md)
+[Tagebuch](./brueckenkurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md)
