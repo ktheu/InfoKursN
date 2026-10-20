@@ -34,4 +34,8 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [matplotlib: Diagrammtypen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_diagrammtypen.ipynb)
 - [matplotlib: Layout, Bilder und Heatmaps](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_layout.ipynb)
 - [matplotlib: Anwendungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=matplotlib_anwendungen.ipynb)
+- [shapely 1: Geometrien erstellen, messen und zeichnen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_grundlagen.ipynb)
+- [shapely 2: Lagebeziehungen, Schnittpunkte und Abstände](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_lagebeziehungen.ipynb)
+- [shapely 3: Mengen, Abstandsbereiche, Hüllen und Voronoi](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_mengen_konstruktionen.ipynb)
+- [shapely 4: Abbildungen und Anwendungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_abbildungen_anwendungen.ipynb)
 - [SQL-Abfragen mit SQLite](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=sql_abfragen.ipynb)
