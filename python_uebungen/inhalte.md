@@ -38,4 +38,8 @@ Deine Änderungen werden im Browser gespeichert. Wer sie behalten will, lädt da
 - [shapely 2: Lagebeziehungen, Schnittpunkte und Abstände](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_lagebeziehungen.ipynb)
 - [shapely 3: Mengen, Abstandsbereiche, Hüllen und Voronoi](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_mengen_konstruktionen.ipynb)
 - [shapely 4: Abbildungen und Anwendungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=shapely_abbildungen_anwendungen.ipynb)
+- [networkx 1: Graphen erstellen, untersuchen und zeichnen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=networkx_grundlagen.ipynb)
+- [networkx 2: Wege, Breiten- und Tiefensuche, Abhängigkeiten](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=networkx_suchen.ipynb)
+- [networkx 3: Kürzeste Wege und minimale Spannbäume](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=networkx_gewichtet.ipynb)
+- [networkx 4: Euler-Wege, Färbungen, Dominating Sets und Rundreisen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=networkx_probleme.ipynb)
 - [SQL-Abfragen mit SQLite](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=sql_abfragen.ipynb)
