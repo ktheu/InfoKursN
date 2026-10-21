@@ -24,17 +24,9 @@
 
 [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
 
-[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter.ipynb) - Einführung 
-
-
 ----------
 
-[MathePlus](https://ktheu.github.io/MathePlus/)
-
-[Mathe mit Python](https://ktheu.github.io/MatheMitPython/)
-
 [Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks im Browser
-
 
 ----------
 
