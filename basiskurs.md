@@ -85,4 +85,4 @@
 
 -----
 
-- [Tagebuch](./basiskurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md)
+- [Tagebuch](./basiskurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md) - [Zettel](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb)

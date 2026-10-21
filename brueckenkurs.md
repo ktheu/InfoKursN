@@ -44,4 +44,4 @@
 [AlgoBwinf](https://algo.bwinf.de/) - [Jwinf](https://jwinf.de/contest/training) 
 
 
-[Tagebuch](./brueckenkurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md)
+[Tagebuch](./brueckenkurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md) - [Zettel](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb)
