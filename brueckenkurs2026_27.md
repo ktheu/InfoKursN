@@ -5,7 +5,7 @@
 - 30.09.2026: Exkursionstag
 - 07.10.2026: Grundlagen bis GL3 (einschließlich), Jupyter Notebooks  
 - 14.10.2026: Grundlagen fertig, Aufgaben + Übungen zu Grundlagen
-- 21.10.2026:
+- 21.10.2026: Grundlagen: Bedingungen un Schleifen, Aufgaben + Übungen 
 - Herbstferien
 - 04.11.2026:
 - 11.11.2026:
