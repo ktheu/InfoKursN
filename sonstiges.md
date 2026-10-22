@@ -16,9 +16,7 @@
 
 ---------
 
-Übungsnotebooks zu vielen Python-Themen 
-
-[Python-Übungen](https://github.com/ktheu/python-uebungen/blob/main/README.md)
+[Python-Übungen](https://github.com/ktheu/python-uebungen/blob/main/README.md) - Übungsnotebooks zu vielen Python-Themen 
 
 ---------
 
