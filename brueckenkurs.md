@@ -22,7 +22,6 @@
 
 [ASCII, Unicode, UTF-8](https://github.com/ktheu/InfoKursN/blob/main/unicode/inhalte/unicode.ipynb) - [Aufgaben](./unicode/aufgaben/aufgaben.pdf) - [Lösungen](./unicode/aufgaben/aufgaben_loes.pdf)
 
-
 [Digitalisierung von Bilder und Audio](https://github.com/ktheu/InfoKursN/blob/main/digitalisierung/inhalte/digitalisierung.ipynb) - [Aufgaben](./digitalisierung/aufgaben/aufgaben.pdf) - [Lösungen](./digitalisierung/aufgaben/aufgaben_loes.pdf)
 
 

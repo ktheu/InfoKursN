@@ -6,7 +6,7 @@
 
 ----------
 
-#### Übungsnotebooks
+Übungsnotebooks zu Themen aus dem Brückenkurs Informatik:
 
 [Bits und Bytes](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb)
 
@@ -15,6 +15,8 @@
 [Digitalisierung von Bildern und Audio](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb)
 
 ---------
+
+Übungsnotebooks zu vielen Python-Themen 
 
 [Python-Übungen](https://github.com/ktheu/python-uebungen/blob/main/README.md)
 
