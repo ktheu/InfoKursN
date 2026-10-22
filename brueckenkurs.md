@@ -18,11 +18,12 @@
 
 #### Daten und Codierung
 
-[Bits und Bytes, Zahlsysteme](https://github.com/ktheu/InfoKursN/blob/main/bitsUndBytes/inhalte/bitsUndBytes.ipynb) - [Aufgaben](./bitsUndBytes/aufgaben/aufgaben.pdf) - [Lösungen](./bitsUndBytes/aufgaben/aufgaben_loes.pdf) - [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb)
+[Bits und Bytes, Zahlsysteme](https://github.com/ktheu/InfoKursN/blob/main/bitsUndBytes/inhalte/bitsUndBytes.ipynb) - [Aufgaben](./bitsUndBytes/aufgaben/aufgaben.pdf) - [Lösungen](./bitsUndBytes/aufgaben/aufgaben_loes.pdf)
 
-[ASCII, Unicode, UTF-8](https://github.com/ktheu/InfoKursN/blob/main/unicode/inhalte/unicode.ipynb) - [Aufgaben](./unicode/aufgaben/aufgaben.pdf) - [Lösungen](./unicode/aufgaben/aufgaben_loes.pdf) - [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb)
+[ASCII, Unicode, UTF-8](https://github.com/ktheu/InfoKursN/blob/main/unicode/inhalte/unicode.ipynb) - [Aufgaben](./unicode/aufgaben/aufgaben.pdf) - [Lösungen](./unicode/aufgaben/aufgaben_loes.pdf)
 
-[Digitalisierung von Bilder und Audio](https://github.com/ktheu/InfoKursN/blob/main/digitalisierung/inhalte/digitalisierung.ipynb) - [Aufgaben](./digitalisierung/aufgaben/aufgaben.pdf) - [Lösungen](./digitalisierung/aufgaben/aufgaben_loes.pdf) - [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb)
+
+[Digitalisierung von Bilder und Audio](https://github.com/ktheu/InfoKursN/blob/main/digitalisierung/inhalte/digitalisierung.ipynb) - [Aufgaben](./digitalisierung/aufgaben/aufgaben.pdf) - [Lösungen](./digitalisierung/aufgaben/aufgaben_loes.pdf)
 
 
 ------
