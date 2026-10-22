@@ -36,7 +36,7 @@
 
 ----------
 
-[Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks im Browser
+[Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks zu Mathematik-Themen
 
 ----------
 
