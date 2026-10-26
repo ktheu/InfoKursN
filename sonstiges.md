@@ -8,11 +8,10 @@
 
 Übungsnotebooks zu Themen aus dem Brückenkurs Informatik:
 
-[Bits und Bytes](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb)
-
-[ASCII, Unicode, UTF-8](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb)
-
-[Digitalisierung von Bildern und Audio](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb)
+- [Bits und Bytes](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb)
+- [ASCII, Unicode, UTF-8](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb)
+- [Digitalisierung von Bildern und Audio](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb)
+- [Rechnernetze](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=netze_uebungen.ipynb)
 
 ---------
 
