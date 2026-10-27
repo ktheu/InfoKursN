@@ -29,7 +29,8 @@
 
 #### Rechner und Netze
 
-[Netze](https://github.com/ktheu/InfoKursN/blob/main/netze/inhalte/netze.ipynb) - [Aufgaben](./netze/aufgaben/aufgaben.pdf) - [Lösungen](./netze/aufgaben/aufgaben_loes.pdf)
+[Netze](https://github.com/ktheu/InfoKursN/blob/main/netze/inhalte/netze.ipynb) - [Aufgaben](./netze/aufgaben/aufgaben.pdf) - [Lösungen](./netze/aufgaben/aufgaben_loes.pdf) -
+[Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=filius_uebungen.ipynb)
 
 -------
 
