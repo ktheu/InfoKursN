@@ -75,7 +75,7 @@
 
 #### Rechner und Netze
 
-- [Funktionsweise eines Rechners](https://github.com/ktheu/InfoKursN/blob/main/rechner/inhalte/rechner.ipynb) - [Aufgaben](./rechner/aufgaben/aufgaben.pdf) - [Lösungen](./rechner/aufgaben/aufgaben_loes.pdf)
+- [Funktionsweise eines Rechners](https://github.com/ktheu/InfoKursN/blob/main/rechner/inhalte/rechner.ipynb) - [Aufgaben](./rechner/aufgaben/aufgaben.pdf) - [Lösungen](./rechner/aufgaben/aufgaben_loes.pdf) - [Übungen](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=johnny.ipynb)
 
 
 
