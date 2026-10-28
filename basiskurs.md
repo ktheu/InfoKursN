@@ -81,7 +81,7 @@
 
 #### Automaten und formale Sprachen
 
-- [Automaten und formale Sprachen](https://github.com/ktheu/InfoKursN/blob/main/automaten/automaten.ipynb) - [Aufgaben](./automaten/aufgaben/aufgaben.pdf) - [Lösungen](./automaten/aufgaben/aufgaben_loes.pdf)
+- [Automaten und formale Sprachen](https://github.com/ktheu/InfoKursN/blob/main/automaten/inhalte/automaten.ipynb) - [Aufgaben](./automaten/aufgaben/aufgaben.pdf) - [Lösungen](./automaten/aufgaben/aufgaben_loes.pdf)
 
 -----
 
