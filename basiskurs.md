@@ -79,9 +79,9 @@
 
 
 
-#### Automaten und formale Sprachen
+#### Endliche Automaten 
 
-- [Automaten und formale Sprachen](https://github.com/ktheu/InfoKursN/blob/main/automaten/inhalte/automaten.ipynb) - [Aufgaben](./automaten/aufgaben/aufgaben.pdf) - [Lösungen](./automaten/aufgaben/aufgaben_loes.pdf)
+- [Endliche Automaten](https://github.com/ktheu/InfoKursN/blob/main/automaten/inhalte/automaten.ipynb) - [Aufgaben](./automaten/aufgaben/aufgaben.pdf) - [Lösungen](./automaten/aufgaben/aufgaben_loes.pdf)
 
 -----
 
