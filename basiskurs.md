@@ -11,7 +11,7 @@
 
 #### Programmierung
 
-- [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablen/variablen.ipynb)
+- [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablen/inhalte/variablen.ipynb) - [Aufgaben](./variablen/aufgaben/aufgaben.pdf) - [Lösungen](./variablen/aufgaben/aufgaben_loes.pdf)
 
 - [Operationen auf Strings](https://github.com/ktheu/InfoKursN/blob/main/strings/strings.ipynb)
 

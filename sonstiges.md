@@ -15,6 +15,11 @@
 
 ---------
 
+Übungsnotebooks zu Themen aus dem Basiskurs Informatik:
+- [Variablen, Datentypen, Initialisierung, Typumwandlung](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=variablen_uebungen.ipynb)
+
+---------
+
 [Python-Übungen](https://github.com/ktheu/python-uebungen/blob/main/README.md) - Übungsnotebooks zu vielen Python-Themen 
 
 ---------
