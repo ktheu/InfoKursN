@@ -7,8 +7,8 @@
 - 02.10.2026 Datenbanken - Übungen zum Entwurf: Musikschule-Aufgabe 
 - 08.10.2026 Datenbanken - Sqlite bis einschließlich Datenbank anlegen
 - 15.10.2026 Datenbanken - SQL-Anweisungen bis Verbundabfragen (ausschließlich) 
-- 16.10.2026
-- 22.10.2026
+- 16.10.2026 Datenbanken - Verbundabfragen bis Ende
+- 22.10.2026 Datenbanken - Übungen zu SQL-Anweisungen: sportverein-Aufgabe
 - Herbstferien
 - 05.11.2026
 - 06.11.2026
