@@ -50,7 +50,7 @@
 
 #### Algorithmen und Datenstrukturen 2
 
-- [ADT Liste](https://github.com/ktheu/InfoKursN/blob/main/adtListe/adtListe.ipynb) - [Aufgaben](./adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./adtListe/aufgaben/aufgaben_loes.pdf)
+- [ADT Liste](https://github.com/ktheu/InfoKursN/blob/main/adtListe/inhalte/adtListe.ipynb) - [Aufgaben](./adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./adtListe/aufgaben/aufgaben_loes.pdf)
 
 - [ADT Keller und Schlange](https://github.com/ktheu/InfoKursN/blob/main/adtKellerSchlange/adtKellerSchlange.ipynb) - [Aufgaben](./adtKellerSchlange/aufgaben/aufgaben.pdf) - [Lösungen](./adtKellerSchlange/aufgaben/aufgaben_loes.pdf)
 
