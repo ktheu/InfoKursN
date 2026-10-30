@@ -44,7 +44,7 @@
 
 #### Objektorientierte Programmierung
 
-- [Klassen und Objekte](https://github.com/ktheu/InfoKursN/blob/main/klassen/klassen.ipynb) - [Aufgaben](./klassen/aufgaben/aufgaben.pdf) - [Lösungen](./klassen/aufgaben/aufgaben_loes.pdf)
+- [Klassen und Objekte](https://github.com/ktheu/InfoKursN/blob/main/klassen/inhalte/klassen.ipynb) - [Aufgaben](./klassen/aufgaben/aufgaben.pdf) - [Lösungen](./klassen/aufgaben/aufgaben_loes.pdf)
 
 
 
