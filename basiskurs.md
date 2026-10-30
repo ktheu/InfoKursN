@@ -13,17 +13,15 @@
 
 - [Variablen, Datentypen, Initialisierung, Typumwandlung](https://github.com/ktheu/InfoKursN/blob/main/variablen/inhalte/variablen.ipynb) - [Aufgaben](./variablen/aufgaben/aufgaben.pdf) - [Lösungen](./variablen/aufgaben/aufgaben_loes.pdf)
 
-- [Operationen auf Strings](https://github.com/ktheu/InfoKursN/blob/main/strings/strings.ipynb)
+- [Strings und Listen](https://github.com/ktheu/InfoKursN/blob/main/stringsUndListen/inhalte/stringsUndListen.ipynb) - [Aufgaben](./stringsUndListen/aufgaben/aufgaben.pdf) - [Lösungen](./stringsUndListen/aufgaben/aufgaben_loes.pdf)
 
-- [Operationen auf Listen]
+- [Tuples, Dictionaries, Sets](https://github.com/ktheu/InfoKursN/blob/main/tuplesDictsSets/inhalte/tuplesDictsSets.ipynb) - [Aufgaben](./tuplesDictsSets/aufgaben/aufgaben.pdf) - [Lösungen](./tuplesDictsSets/aufgaben/aufgaben_loes.pdf)
 
-- [Tuples, Dictionaries, Sets]
+- [Funktionen](https://github.com/ktheu/InfoKursN/blob/main/funktionen/inhalte/funktionen.ipynb) - [Aufgaben](./funktionen/aufgaben/aufgaben.pdf) - [Lösungen](./funktionen/aufgaben/aufgaben_loes.pdf)
 
-- [Funktionen](https://github.com/ktheu/InfoKursN/blob/main/funktionen/funktionen.ipynb) - [Aufgaben](./funktionen/aufgaben/aufgaben.pdf) - [Lösungen](./funktionen/aufgaben/aufgaben_loes.pdf)
-
-- [Speicheradressen](https://github.com/ktheu/InfoKursN/blob/main/speicheradressen/speicheradressen.ipynb) - [Aufgaben](./speicheradressen/aufgaben/aufgaben.pdf) - [Lösungen](./speicheradressen/aufgaben/aufgaben_loes.pdf)
+- [Speicheradressen](https://github.com/ktheu/InfoKursN/blob/main/speicheradressen/inhalte/speicheradressen.ipynb) - [Aufgaben](./speicheradressen/aufgaben/aufgaben.pdf) - [Lösungen](./speicheradressen/aufgaben/aufgaben_loes.pdf)
  
-- [Veränderbarkeit](https://github.com/ktheu/InfoKursN/blob/main/veraenderbarkeit/veraenderbarkeit.ipynb) - [Aufgaben](./veraenderbarkeit/aufgaben/aufgaben.pdf) - [Lösungen](./veraenderbarkeit/aufgaben/aufgaben_loes.pdf)
+- [Veränderbarkeit](https://github.com/ktheu/InfoKursN/blob/main/veraenderbarkeit/inhalte/veraenderbarkeit.ipynb) - [Aufgaben](./veraenderbarkeit/aufgaben/aufgaben.pdf) - [Lösungen](./veraenderbarkeit/aufgaben/aufgaben_loes.pdf)
 
 
 #### Rekursion
