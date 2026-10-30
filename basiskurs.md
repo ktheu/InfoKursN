@@ -32,7 +32,7 @@
 
 - [Binäre Suche](https://github.com/ktheu/InfoKursN/blob/main/binaereSuche/inhalte/binaereSuche.ipynb) - [Aufgaben](./binaereSuche/aufgaben/aufgaben.pdf) - [Lösungen](./binaereSuche/aufgaben/aufgaben_loes.pdf)
 
-- [Komplexität](https://github.com/ktheu/InfoKursN/blob/main/komplexitaet/komplexitaet.ipynb) - [Aufgaben](./komplexitaet/aufgaben/aufgaben.pdf) - [Lösungen](./komplexitaet/aufgaben/aufgaben_loes.pdf)
+- [Komplexität](https://github.com/ktheu/InfoKursN/blob/main/komplexitaet/inhalte/komplexitaet.ipynb) - [Aufgaben](./komplexitaet/aufgaben/aufgaben.pdf) - [Lösungen](./komplexitaet/aufgaben/aufgaben_loes.pdf)
 
 - [SelectionSort, InsertionSort, BubbleSort, MergeSort, QuickSort](https://github.com/ktheu/InfoKursN/blob/main/sort/sort.ipynb) - [Aufgaben](./sort/aufgaben/aufgaben.pdf) - [Lösungen](./sort/aufgaben/aufgaben_loes.pdf)
 
