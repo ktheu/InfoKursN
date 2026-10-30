@@ -52,7 +52,7 @@
 
 - [ADT Liste](https://github.com/ktheu/InfoKursN/blob/main/adtListe/inhalte/adtListe.ipynb) - [Aufgaben](./adtListe/aufgaben/aufgaben.pdf) - [Lösungen](./adtListe/aufgaben/aufgaben_loes.pdf)
 
-- [ADT Keller und Schlange](https://github.com/ktheu/InfoKursN/blob/main/adtKellerSchlange/adtKellerSchlange.ipynb) - [Aufgaben](./adtKellerSchlange/aufgaben/aufgaben.pdf) - [Lösungen](./adtKellerSchlange/aufgaben/aufgaben_loes.pdf)
+- [ADT Keller und Schlange](https://github.com/ktheu/InfoKursN/blob/main/adtKellerSchlange/inhalte/adtKellerSchlange.ipynb) - [Aufgaben](./adtKellerSchlange/aufgaben/aufgaben.pdf) - [Lösungen](./adtKellerSchlange/aufgaben/aufgaben_loes.pdf)
 
 - [Binärer Baum](https://github.com/ktheu/InfoKursN/blob/main/binaerbaum/binaerbaum.ipynb) - [Aufgaben](./binaerbaum/aufgaben/aufgaben.pdf) - [Lösungen](./binaerbaum/aufgaben/aufgaben_loes.pdf)
 
