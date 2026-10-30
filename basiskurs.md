@@ -26,7 +26,7 @@
 
 #### Rekursion
 
-- [Rekursion](https://github.com/ktheu/InfoKursN/blob/main/rekursion/rekursion.ipynb) - [Aufgaben](./rekursion/aufgaben/aufgaben.pdf) - [Lösungen](./rekursion/aufgaben/aufgaben_loes.pdf)
+- [Rekursion](https://github.com/ktheu/InfoKursN/blob/main/rekursion/inhalte/rekursion.ipynb) - [Aufgaben](./rekursion/aufgaben/aufgaben.pdf) - [Lösungen](./rekursion/aufgaben/aufgaben_loes.pdf)
 
 #### Algorithmen und Datenstrukturen 1
 
