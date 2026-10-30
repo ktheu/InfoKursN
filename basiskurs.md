@@ -34,7 +34,7 @@
 
 - [Komplexität](https://github.com/ktheu/InfoKursN/blob/main/komplexitaet/inhalte/komplexitaet.ipynb) - [Aufgaben](./komplexitaet/aufgaben/aufgaben.pdf) - [Lösungen](./komplexitaet/aufgaben/aufgaben_loes.pdf)
 
-- [SelectionSort, InsertionSort, BubbleSort, MergeSort, QuickSort](https://github.com/ktheu/InfoKursN/blob/main/sort/sort.ipynb) - [Aufgaben](./sort/aufgaben/aufgaben.pdf) - [Lösungen](./sort/aufgaben/aufgaben_loes.pdf)
+- [SelectionSort, InsertionSort, BubbleSort, MergeSort, QuickSort](https://github.com/ktheu/InfoKursN/blob/main/sort/inhalte/sort.ipynb) - [Aufgaben](./sort/aufgaben/aufgaben.pdf) - [Lösungen](./sort/aufgaben/aufgaben_loes.pdf)
 
 - [HeapSort](https://github.com/ktheu/InfoKursN/blob/main/heapsort/heapsort.ipynb) - [Aufgaben](./heapsort/aufgaben/aufgaben.pdf) - [Lösungen](./heapsort/aufgaben/aufgaben_loes.pdf)
 
