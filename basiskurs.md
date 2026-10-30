@@ -36,9 +36,9 @@
 
 - [SelectionSort, InsertionSort, BubbleSort, MergeSort, QuickSort](https://github.com/ktheu/InfoKursN/blob/main/sort/inhalte/sort.ipynb) - [Aufgaben](./sort/aufgaben/aufgaben.pdf) - [Lösungen](./sort/aufgaben/aufgaben_loes.pdf)
 
-- [HeapSort](https://github.com/ktheu/InfoKursN/blob/main/heapsort/heapsort.ipynb) - [Aufgaben](./heapsort/aufgaben/aufgaben.pdf) - [Lösungen](./heapsort/aufgaben/aufgaben_loes.pdf)
+- [HeapSort](https://github.com/ktheu/InfoKursN/blob/main/heapsort/inhalte/heapsort.ipynb) - [Aufgaben](./heapsort/aufgaben/aufgaben.pdf) - [Lösungen](./heapsort/aufgaben/aufgaben_loes.pdf)
 
-- [Sort in Python](https://github.com/ktheu/InfoKursN/blob/main/sortInPython/sortInPython.ipynb) - [Aufgaben](./sortInPython/aufgaben/aufgaben.pdf) - [Lösungen](./sortInPython/aufgaben/aufgaben_loes.pdf)
+- [Sort in Python](https://github.com/ktheu/InfoKursN/blob/main/sortInPython/inhalte/sortInPython.ipynb) - [Aufgaben](./sortInPython/aufgaben/aufgaben.pdf) - [Lösungen](./sortInPython/aufgaben/aufgaben_loes.pdf)
 
 
 
