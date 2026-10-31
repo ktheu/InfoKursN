@@ -48,7 +48,7 @@
 
 - [Klassen und Objekte](https://github.com/ktheu/InfoKursN/blob/main/klassen/inhalte/klassen.ipynb) - [Aufgaben](./klassen/aufgaben/aufgaben.pdf) - [Lösungen](./klassen/aufgaben/aufgaben_loes.pdf)
 
-
+- [Dokumentationen](https://github.com/ktheu/InfoKursN/blob/main/dokumentationen/inhalte/dokumentationen.ipynb) - [Aufgaben](./dokumentationen/aufgaben/aufgaben.pdf) - [Lösungen](./dokumentationen/aufgaben/aufgaben_loes.pdf)
 
 #### Algorithmen und Datenstrukturen 2
 
