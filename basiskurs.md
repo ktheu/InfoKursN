@@ -30,6 +30,8 @@
 
 #### Algorithmen und Datenstrukturen 1
 
+- [Algorithmen darstellen](https://github.com/ktheu/InfoKursN/blob/main/algorithmenDarstellen/inhalte/algorithmenDarstellen.ipynb) - [Aufgaben](./algorithmenDarstellen/aufgaben/aufgaben.pdf) - [Lösungen](./algorithmenDarstellen/aufgaben/aufgaben_loes.pdf)
+
 - [Binäre Suche](https://github.com/ktheu/InfoKursN/blob/main/binaereSuche/inhalte/binaereSuche.ipynb) - [Aufgaben](./binaereSuche/aufgaben/aufgaben.pdf) - [Lösungen](./binaereSuche/aufgaben/aufgaben_loes.pdf)
 
 - [Komplexität](https://github.com/ktheu/InfoKursN/blob/main/komplexitaet/inhalte/komplexitaet.ipynb) - [Aufgaben](./komplexitaet/aufgaben/aufgaben.pdf) - [Lösungen](./komplexitaet/aufgaben/aufgaben_loes.pdf)
