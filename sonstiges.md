@@ -32,6 +32,7 @@
 
 Übungsnotebooks zu Themen aus dem Basiskurs Informatik:
 - [Variablen, Datentypen, Initialisierung, Typumwandlung](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=variablen_uebungen.ipynb)
+- [SQLite - Kinodatenbank](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sqlite_uebungen.ipynb)
 
 ---------
 
@@ -41,25 +42,25 @@ Weitere Übungsnotebooks (numpy, matplotlib, pandas, ...)
 
 ---------
 
+Weitere Themen
 
-[Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
-
-[Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
-
-[Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb)
-
-
-----------
-
-[JupyterLite](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyterlite.ipynb) - Jupyter Notebooks im Browser
-
-[Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
+- [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
+- [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
+- [Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb)
 
 ----------
 
 [Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks zu Mathematik-Themen
 
+
+
 ----------
+
+- [JupyterLite](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyterlite.ipynb) - Jupyter Notebooks im Browser- 
+- [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
+
+----------
+
 
 [Altes Material](./altes.md)
 
