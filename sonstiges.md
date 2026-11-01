@@ -6,9 +6,19 @@
 
 ----------
 
-Übungsnotebooks zu Python:
+Übungsnotebooks zum Python-Lernen:
 
 - [Bedingungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=bedingungen.ipynb)
+- [Schleifen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=schleifen.ipynb)
+- [Strings](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=strings.ipynb)
+- [Listen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=listen.ipynb)
+- [Tuples](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=tupel.ipynb)
+- [Dictionaries](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=dictionaries.ipynb)
+- [Sets](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=sets.ipynb)
+- [Funktionen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=funktionen.ipynb)
+- [Dateien lesen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=dateien.ipynb)
+
+----
 
 
 Übungsnotebooks zu Themen aus dem Brückenkurs Informatik:
@@ -25,7 +35,9 @@
 
 ---------
 
-[Python-Übungen](https://github.com/ktheu/python-uebungen/blob/main/README.md) - Übungsnotebooks zu vielen Python-Themen 
+Weitere Übungsnotebooks (numpy, matplotlib, pandas, ...) 
+
+[Übungsnotebooks](https://github.com/ktheu/python-uebungen/blob/main/README.md) 
 
 ---------
 
