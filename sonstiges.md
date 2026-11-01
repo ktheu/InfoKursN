@@ -1,10 +1,14 @@
-### Sonstige Themen
+### Sonstiges
 
 ----------
 
-[Hinweise auf Angebote für Schülerinnen und Schüler](./hinweise.md)
+- [Hinweise auf Angebote für Schülerinnen und Schüler](./hinweise.md)
 
 ----------
+
+- [Weitere Themen](./weitereThemen.md) - Weitere Themen aus der Informatik
+
+---------
 
 Übungsnotebooks zum Python-Lernen:
 
@@ -38,15 +42,7 @@
 
 - [Übungsnotebooks](https://github.com/ktheu/python-uebungen/blob/main/README.md) - Weitere Übungsnotebooks: numpy, matplotlib, pandas, ... 
 
----------
-
-Weitere Themen
-
-- [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
-- [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
-- [Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb)
-
-----------
+-------
 
 - [Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks zu Mathematik-Themen
 
@@ -57,7 +53,11 @@ Weitere Themen
 
 ----------
 
-[Altes Material](./altes.md)
+- [Abituraufgaben](https://ibbw-bw.de/,Lde/Startseite/Pruefungen+_+Lernstandserhebungen/Abschlusspruefungen+_allgemein+bildend_) - Abituraufgaben aus den letzten Jahren
+
+----------
+
+- [Altes Material](./altes.md)
 
 
 
