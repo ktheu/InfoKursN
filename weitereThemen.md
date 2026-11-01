@@ -5,6 +5,8 @@
 - [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/rekursiveBilder.ipynb)
 - [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
 
+-----
+
 - [Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb) - Winkelberechnungen in Python
 - [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
 - 
