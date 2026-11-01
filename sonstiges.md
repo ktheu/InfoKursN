@@ -36,9 +36,7 @@
 
 ---------
 
-Weitere Übungsnotebooks (numpy, matplotlib, pandas, ...) 
-
-[Übungsnotebooks](https://github.com/ktheu/python-uebungen/blob/main/README.md) 
+- [Übungsnotebooks](https://github.com/ktheu/python-uebungen/blob/main/README.md) - Weitere Übungsnotebooks: numpy, matplotlib, pandas, ... 
 
 ---------
 
@@ -50,9 +48,7 @@ Weitere Themen
 
 ----------
 
-[Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks zu Mathematik-Themen
-
-
+- [Mathematik mit sympy](https://github.com/ktheu/sympy-mathe/blob/main/README.md) - Übungsnotebooks zu Mathematik-Themen
 
 ----------
 
@@ -60,7 +56,6 @@ Weitere Themen
 - [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
 
 ----------
-
 
 [Altes Material](./altes.md)
 
