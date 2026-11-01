@@ -15,7 +15,7 @@
 
 --------
 
-[MathePlus](https://ktheu.github.io/MathePlus/)
-[Mathe mit Python](https://ktheu.github.io/MatheMitPython/)
+- [MathePlus](https://ktheu.github.io/MathePlus/)
+- [Mathe mit Python](https://ktheu.github.io/MatheMitPython/)
 
 --------
