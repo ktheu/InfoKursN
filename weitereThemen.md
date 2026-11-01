@@ -9,7 +9,7 @@
 
 - [Winkel](https://github.com/ktheu/InfoKursN/blob/main/winkel/winkel.ipynb) - Winkelberechnungen in Python
 - [Jupyter Notebooks](https://github.com/ktheu/InfoKursN/blob/main/jupyter/inhalte/jupyter_aufruf.ipynb) - Aufruf, Installation, Download 
-- 
+
 --------
 
 - [Übungsnotebooks](https://github.com/ktheu/python-uebungen/blob/main/README.md) - Weitere Übungsnotebooks: numpy, matplotlib, pandas, ... 
