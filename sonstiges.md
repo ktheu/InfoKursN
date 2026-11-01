@@ -6,6 +6,11 @@
 
 ----------
 
+Übungsnotebooks zu Python:
+
+- [Bedingungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=bedingungen.ipynb)
+
+
 Übungsnotebooks zu Themen aus dem Brückenkurs Informatik:
 
 - [Bits und Bytes](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb)
