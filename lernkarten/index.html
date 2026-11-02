@@ -289,8 +289,7 @@
     const hinten = zustand.umgedreht ? k.frage : k.antwort;
     karte.className = "karte";
     karte.innerHTML =
-      "<div class='kopf'><span>" + esc(k.einheit) + " · " + esc(k.thema) + "</span><span>" +
-      (k.quelle ? esc(k.quelle) + " · " : "") + "Fach " + fachVon(k) + "</span></div>" +
+      "<div class='kopf'><span>" + esc(k.einheit) + " · " + esc(k.thema) + "</span><span>Fach " + fachVon(k) + "</span></div>" +
       "<div class='frage'>" + render(vorne, k.basis) + "</div>" +
       "<div class='antwort' id='antwort' hidden>" + render(hinten, k.basis) + "</div>" +
       "<div class='spacer'></div>" +
