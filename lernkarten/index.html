@@ -1,0 +1,377 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lernkarten</title>
+<style>
+  :root {
+    --bg: #f4f2ee;
+    --surface: #ffffff;
+    --text: #1f2328;
+    --muted: #6a6f76;
+    --line: #dedad3;
+    --accent: #2f5d8a;
+    --accent-soft: #e3ecf5;
+    --good: #2e7d4f;
+    --good-soft: #e2f1e8;
+    --bad: #b5452f;
+    --bad-soft: #f7e5e0;
+    --code-bg: #f1efea;
+    --shadow: 0 1px 2px rgba(0,0,0,.05), 0 6px 20px rgba(0,0,0,.06);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #17191c;
+      --surface: #212428;
+      --text: #e6e6e3;
+      --muted: #9a9ea5;
+      --line: #34383e;
+      --accent: #7fb0e0;
+      --accent-soft: #263445;
+      --good: #6cc592;
+      --good-soft: #1f3529;
+      --bad: #e58a74;
+      --bad-soft: #3d2620;
+      --code-bg: #2a2e33;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 6px 20px rgba(0,0,0,.25);
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font: 17px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  main { max-width: 680px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
+  h1 { font-size: 1.45rem; margin: 0; letter-spacing: -.01em; }
+  .link { background: none; border: 0; color: var(--accent); font: inherit; font-size: .9rem; cursor: pointer; padding: 0; }
+
+  /* Auswahl */
+  .zeile { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-bottom: 12px; }
+  .zeile .titel { font-size: .78rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; width: 100%; display: flex; justify-content: space-between; }
+  .chip {
+    border: 1px solid var(--line); background: var(--surface); color: var(--text);
+    border-radius: 999px; padding: 5px 12px; font: inherit; font-size: .88rem; cursor: pointer;
+  }
+  .chip[aria-pressed="true"] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); font-weight: 600; }
+  .einheit { font-size: .95rem; padding: 6px 14px; }
+  .einheit[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
+  .optionen { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 18px; font-size: .9rem; color: var(--muted); margin: 4px 0 18px; }
+  .optionen label { display: flex; align-items: center; gap: 6px; cursor: pointer; }
+
+  /* Fortschritt */
+  .fortschritt { display: flex; align-items: center; gap: 10px; font-size: .85rem; color: var(--muted); margin-bottom: 10px; }
+  .balken { flex: 1; height: 6px; background: var(--line); border-radius: 3px; overflow: hidden; }
+  .balken div { height: 100%; width: 0; background: var(--accent); transition: width .25s; }
+
+  /* Karte */
+  .karte {
+    background: var(--surface); border: 1px solid var(--line); border-radius: 14px;
+    box-shadow: var(--shadow); padding: 22px 22px 18px; min-height: 260px;
+    display: flex; flex-direction: column;
+  }
+  .kopf { display: flex; justify-content: space-between; gap: 12px; font-size: .78rem; color: var(--muted); text-transform: uppercase; letter-spacing: .05em; margin-bottom: 12px; }
+  .frage { font-size: 1.12rem; }
+  .antwort { border-top: 1px dashed var(--line); margin-top: 18px; padding-top: 16px; }
+  .antwort[hidden] { display: none; }
+  .karte code { font-family: ui-monospace, Consolas, monospace; font-size: .9em; background: var(--code-bg); padding: 1px 5px; border-radius: 4px; }
+  .karte pre {
+    font-family: ui-monospace, Consolas, monospace; font-size: .88rem; line-height: 1.45;
+    background: var(--code-bg); padding: 10px 12px; border-radius: 8px; margin: 8px 0; overflow-x: auto;
+  }
+  .karte u { text-underline-offset: 3px; }
+  .tabelle { overflow-x: auto; margin: 8px 0; }
+  .karte table { border-collapse: collapse; font-size: .9rem; }
+  .karte th, .karte td { border: 1px solid var(--line); padding: 3px 10px; text-align: left; }
+  .karte th { background: var(--code-bg); }
+  .karte img { display: block; max-width: 100%; margin: 8px 0; background: #fff; border-radius: 8px; border: 1px solid var(--line); }
+  .spacer { flex: 1; }
+
+  .aktionen { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 20px; }
+  .aktionen button {
+    font: inherit; font-weight: 600; padding: 12px; border-radius: 10px; cursor: pointer; border: 1px solid transparent;
+  }
+  .zeigen { grid-column: 1 / -1; background: var(--accent); color: var(--surface); }
+  .falsch { background: var(--bad-soft); color: var(--bad); border-color: var(--bad) !important; }
+  .richtig { background: var(--good-soft); color: var(--good); border-color: var(--good) !important; }
+  .taste { font-weight: 400; opacity: .6; font-size: .8em; margin-left: 4px; }
+
+  /* Fächer */
+  .faecher { margin-top: 26px; }
+  .faecher h2 { font-size: .85rem; color: var(--muted); font-weight: 600; text-transform: uppercase; letter-spacing: .05em; margin: 0 0 8px; }
+  .boxen { display: grid; grid-template-columns: repeat(5, 1fr); gap: 6px; }
+  .box { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; text-align: center; padding: 8px 4px; }
+  .box b { display: block; font-size: 1.15rem; }
+  .box small { color: var(--muted); font-size: .75rem; }
+  .hinweis { color: var(--muted); font-size: .82rem; margin-top: 8px; }
+  .fehler { color: var(--bad); font-size: .85rem; }
+
+  .ende { text-align: center; justify-content: center; align-items: center; gap: 6px; }
+  .ende p { margin: 0; color: var(--muted); }
+  .ende button { margin-top: 14px; font: inherit; font-weight: 600; padding: 10px 22px; border-radius: 10px; border: 0; background: var(--accent); color: var(--surface); cursor: pointer; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Lernkarten</h1>
+    <button class="link" id="reset">Fortschritt zurücksetzen</button>
+  </header>
+
+  <div class="zeile" id="einheiten"></div>
+  <div class="zeile" id="themen"></div>
+  <div class="optionen">
+    <label><input type="checkbox" id="nurUnsicher"> nur Karten aus Fach 1–3</label>
+    <label><input type="checkbox" id="umgedreht"> Antwort zuerst zeigen</label>
+  </div>
+
+  <div class="fortschritt"><span id="zaehler"></span><div class="balken"><div id="balken"></div></div></div>
+  <section class="karte" id="karte"></section>
+
+  <section class="faecher">
+    <h2>Lernfächer</h2>
+    <div class="boxen" id="boxen"></div>
+    <p class="hinweis">Gewusste Karten wandern ein Fach weiter, nicht gewusste zurück in Fach 1. Neue Karten starten in Fach 1. Der Fortschritt wird nur in diesem Browser gespeichert.</p>
+    <p class="fehler" id="fehler"></p>
+  </section>
+</main>
+
+<script src="einheiten.js"></script>
+<script>
+  const SPEICHER = "lernkarten";
+  const ANZ_FAECHER = 5;
+
+  // Jede Kartendatei ruft lernkarten("Name der Einheit", [...]) auf.
+  // Bildpfade in den Karten sind relativ zur Kartendatei.
+  const GELADEN = [];
+  function lernkarten(einheit, karten) {
+    GELADEN.push({ name: einheit, karten: karten, basis: document.currentScript.src });
+  }
+
+  // nacheinander laden, damit die Reihenfolge aus einheiten.js erhalten bleibt
+  // (Script-Tags statt fetch, so funktioniert die Seite auch ohne Server per Doppelklick)
+  const fehlend = [];
+  function ladeNacheinander(pfade, fertig) {
+    if (pfade.length === 0) return fertig();
+    const s = document.createElement("script");
+    s.src = pfade[0];
+    s.onload = () => ladeNacheinander(pfade.slice(1), fertig);
+    s.onerror = () => { fehlend.push(pfade[0]); ladeNacheinander(pfade.slice(1), fertig); };
+    document.head.appendChild(s);
+  }
+
+  // Karten-ID aus Einheit und Fragetext, damit der Fortschritt beim Einfügen neuer Karten erhalten bleibt
+  function hash(s) {
+    let h = 5381;
+    for (const c of s) h = (h * 33 + c.charCodeAt(0)) >>> 0;
+    return h.toString(36);
+  }
+
+  let KARTEN = [], NAMEN = [], zustand;
+  const themaSchluessel = k => k.einheit + "|" + k.thema;
+  const fachVon = k => zustand.fach[k.id] || 1;
+
+  function laden() {
+    try { return JSON.parse(localStorage.getItem(SPEICHER)) || {}; } catch { return {}; }
+  }
+  function speichern() {
+    try { localStorage.setItem(SPEICHER, JSON.stringify(zustand)); } catch {}
+  }
+
+  function start() {
+    KARTEN = GELADEN.flatMap(e => e.karten.map(k =>
+      Object.assign({}, k, { einheit: e.name, basis: e.basis, id: hash(e.name + "|" + k.frage) })));
+    NAMEN = GELADEN.map(e => e.name);
+    zustand = Object.assign({ fach: {}, einheiten: null, themenAus: [], nurUnsicher: false, umgedreht: false }, laden());
+
+    // ?einheit=Datenbanken,Bedingungen wählt diese Einheiten aus
+    const param = new URLSearchParams(location.search).get("einheit");
+    if (param) {
+      const gewuenscht = param.toLowerCase().split(",").map(s => s.trim());
+      zustand.einheiten = NAMEN.filter(n => gewuenscht.includes(n.toLowerCase()));
+    }
+    if (!zustand.einheiten) zustand.einheiten = [...NAMEN];
+    zustand.einheiten = zustand.einheiten.filter(n => NAMEN.includes(n));
+
+    if (fehlend.length) $("fehler").textContent = "Nicht gefunden: " + fehlend.join(", ");
+    $("nurUnsicher").checked = zustand.nurUnsicher;
+    $("umgedreht").checked = zustand.umgedreht;
+    zeigeAuswahl();
+    neueSitzung();
+  }
+
+  // Mini-Markdown: **fett**, __unterstrichen__, `code`, ```Block```,
+  // Tabellenzeilen | a | b | (erste Zeile ist Kopfzeile), Bild ![Beschreibung](datei.png)
+  function esc(s) {
+    return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/'/g, "&#39;");
+  }
+  function inline(s) {
+    return esc(s)
+      .replace(/`([^`]+)`/g, "<code>$1</code>")
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/__(.+?)__/g, "<u>$1</u>");
+  }
+  function tabelle(zeilen) {
+    const z = zeilen.trim().split("\n").map(r => r.trim().slice(1, -1).split("|").map(c => inline(c.trim())));
+    const kopf = "<tr>" + z[0].map(c => "<th>" + c + "</th>").join("") + "</tr>";
+    const rumpf = z.slice(1).map(r => "<tr>" + r.map(c => "<td>" + c + "</td>").join("") + "</tr>").join("");
+    return "<div class='tabelle'><table>" + kopf + rumpf + "</table></div>";
+  }
+  function render(text, basis) {
+    // Blöcke durch Platzhalter ersetzen, damit sie nicht weiter formatiert werden
+    const bloecke = [];
+    const merke = html => { bloecke.push(html); return "\u0000" + (bloecke.length - 1) + "\u0000"; };
+    text = text
+      .replace(/\n*```\w*\n?([\s\S]*?)\n?```\n*/g, (_, code) => merke("<pre>" + esc(code) + "</pre>"))
+      .replace(/\n*((?:^\|.*\|[ \t]*(?:\n|$))+)\n*/gm, (_, zeilen) => merke(tabelle(zeilen)))
+      .replace(/\n*!\[([^\]]*)\]\(([^)\s]+)\)\n*/g, (_, alt, pfad) =>
+        merke("<img src='" + esc(new URL(pfad, basis).href) + "' alt='" + esc(alt) + "'>"));
+    return inline(text).replace(/\n/g, "<br>").replace(/\u0000(\d+)\u0000/g, (_, i) => bloecke[i]);
+  }
+
+  // ---------- Sitzung ----------
+  let stapel = [], gesamt = 0, erledigt = 0, aufgedeckt = false;
+
+  function ausgewaehlt() {
+    return KARTEN.filter(k => zustand.einheiten.includes(k.einheit) && !zustand.themenAus.includes(themaSchluessel(k)));
+  }
+  function mischen(a) {
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+  function neueSitzung() {
+    let auswahl = ausgewaehlt();
+    if (zustand.nurUnsicher) auswahl = auswahl.filter(k => fachVon(k) <= 3);
+    // niedrige Fächer zuerst, innerhalb eines Fachs zufällig
+    stapel = mischen(auswahl).sort((a, b) => fachVon(a) - fachVon(b));
+    gesamt = stapel.length;
+    erledigt = 0;
+    zeigeKarte();
+  }
+  function bewerten(gewusst) {
+    const k = stapel.shift();
+    if (gewusst) {
+      zustand.fach[k.id] = Math.min(ANZ_FAECHER, fachVon(k) + 1);
+      erledigt++;
+    } else {
+      zustand.fach[k.id] = 1;
+      stapel.splice(Math.min(3, stapel.length), 0, k);   // kommt in dieser Sitzung bald wieder
+    }
+    speichern();
+    zeigeKarte();
+  }
+
+  // ---------- Anzeige ----------
+  const $ = id => document.getElementById(id);
+
+  function zeigeKarte() {
+    aufgedeckt = false;
+    $("zaehler").textContent = erledigt + " / " + gesamt;
+    $("balken").style.width = gesamt ? (100 * erledigt / gesamt) + "%" : "0";
+    zeigeFaecher();
+    const karte = $("karte");
+    if (stapel.length === 0) {
+      karte.className = "karte ende";
+      karte.innerHTML = gesamt
+        ? "<strong>Geschafft!</strong><p>Alle " + gesamt + " Karten dieser Runde gewusst.</p><button id='nochmal'>Neue Runde</button>"
+        : "<strong>Keine Karten</strong><p>Wähle mindestens eine Einheit und ein Thema aus oder entferne den Haken bei „nur Fach 1–3“.</p>";
+      if (gesamt) $("nochmal").onclick = neueSitzung;
+      return;
+    }
+    const k = stapel[0];
+    const vorne = zustand.umgedreht ? k.antwort : k.frage;
+    const hinten = zustand.umgedreht ? k.frage : k.antwort;
+    karte.className = "karte";
+    karte.innerHTML =
+      "<div class='kopf'><span>" + esc(k.einheit) + " · " + esc(k.thema) + "</span><span>" +
+      (k.quelle ? esc(k.quelle) + " · " : "") + "Fach " + fachVon(k) + "</span></div>" +
+      "<div class='frage'>" + render(vorne, k.basis) + "</div>" +
+      "<div class='antwort' id='antwort' hidden>" + render(hinten, k.basis) + "</div>" +
+      "<div class='spacer'></div>" +
+      "<div class='aktionen' id='aktionen'><button class='zeigen' id='zeigen'>Antwort zeigen<span class='taste'>Leertaste</span></button></div>";
+    $("zeigen").onclick = aufdecken;
+  }
+  function aufdecken() {
+    if (aufgedeckt || stapel.length === 0) return;
+    aufgedeckt = true;
+    $("antwort").hidden = false;
+    $("aktionen").innerHTML =
+      "<button class='falsch' id='falsch'>Nicht gewusst<span class='taste'>1</span></button>" +
+      "<button class='richtig' id='richtig'>Gewusst<span class='taste'>2</span></button>";
+    $("falsch").onclick = () => bewerten(false);
+    $("richtig").onclick = () => bewerten(true);
+  }
+  function zeigeFaecher() {
+    const anzahl = Array(ANZ_FAECHER).fill(0);
+    ausgewaehlt().forEach(k => anzahl[fachVon(k) - 1]++);
+    $("boxen").innerHTML = anzahl.map((n, i) =>
+      "<div class='box'><b>" + n + "</b><small>Fach " + (i + 1) + "</small></div>").join("");
+  }
+  function chips(container, liste, aktiv, klasse, umschalten) {
+    liste.forEach(eintrag => {
+      const b = document.createElement("button");
+      b.className = "chip " + klasse;
+      b.textContent = eintrag.text;
+      b.setAttribute("aria-pressed", aktiv(eintrag));
+      b.onclick = () => { umschalten(eintrag); speichern(); zeigeAuswahl(); neueSitzung(); };
+      container.appendChild(b);
+    });
+  }
+  function zeigeAuswahl() {
+    const einheiten = $("einheiten");
+    einheiten.innerHTML = "<div class='titel'>Einheiten</div>";
+    chips(einheiten, NAMEN.map(n => ({ text: n })), e => zustand.einheiten.includes(e.text), "einheit", e => {
+      zustand.einheiten = zustand.einheiten.includes(e.text)
+        ? zustand.einheiten.filter(n => n !== e.text)
+        : NAMEN.filter(n => n === e.text || zustand.einheiten.includes(n));
+    });
+
+    // Themen der ausgewählten Einheiten, Schlüssel "Einheit|Thema"
+    const themen = [];
+    KARTEN.filter(k => zustand.einheiten.includes(k.einheit)).forEach(k => {
+      if (!themen.some(t => t.key === themaSchluessel(k))) themen.push({ key: themaSchluessel(k), text: k.thema });
+    });
+    const zeile = $("themen");
+    zeile.innerHTML = "";
+    if (themen.length === 0) return;
+    const alleAn = themen.every(t => !zustand.themenAus.includes(t.key));
+    zeile.innerHTML = "<div class='titel'><span>Themen</span><button class='link' id='alle'>" + (alleAn ? "keine" : "alle") + "</button></div>";
+    $("alle").onclick = () => {
+      const keys = themen.map(t => t.key);
+      zustand.themenAus = zustand.themenAus.filter(x => !keys.includes(x));
+      if (alleAn) zustand.themenAus.push(...keys);
+      speichern(); zeigeAuswahl(); neueSitzung();
+    };
+    chips(zeile, themen, t => !zustand.themenAus.includes(t.key), "", t => {
+      zustand.themenAus = zustand.themenAus.includes(t.key)
+        ? zustand.themenAus.filter(x => x !== t.key)
+        : [...zustand.themenAus, t.key];
+    });
+  }
+
+  // ---------- Bedienung ----------
+  $("nurUnsicher").onchange = e => { zustand.nurUnsicher = e.target.checked; speichern(); neueSitzung(); };
+  $("umgedreht").onchange = e => { zustand.umgedreht = e.target.checked; speichern(); zeigeKarte(); };
+  $("reset").onclick = () => {
+    if (!confirm("Fortschritt für alle Karten zurücksetzen?")) return;
+    zustand.fach = {};
+    speichern();
+    neueSitzung();
+  };
+  document.addEventListener("keydown", e => {
+    if (e.target.tagName === "INPUT" || e.target.tagName === "BUTTON") return;
+    if (e.key === " " || e.key === "Enter") { e.preventDefault(); aufdecken(); }
+    else if (aufgedeckt && e.key === "1") bewerten(false);
+    else if (aufgedeckt && e.key === "2") bewerten(true);
+  });
+
+  ladeNacheinander(EINHEITEN, start);
+</script>
+</body>
+</html>

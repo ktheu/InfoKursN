@@ -6,6 +6,10 @@
 
 -------
 
+- [Lernkarten](https://ktheu.github.io/InfoKursN/lernkarten/.)
+
+-------
+
 Übungsnotebooks zum Python-Lernen:
 
 - [Bedingungen](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=bedingungen.ipynb)
