@@ -2,7 +2,7 @@
 
 --------------------------------
 
-Jugendwettbewerb Informatik: https://jwinf.de/
+Jugendwettbewerb Informatik: [https://jwinf.de/](https://jwinf.de/)
 
 Bei Erstanmeldung: Erst Gruppencode angeben (steht an der Tafel), 
 dann Logincode aufschreiben! - Nur der wird in Zukunft für die Anmeldung benötigt.
