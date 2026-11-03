@@ -27,8 +27,8 @@ lernkarten("Datenbanken", [
   },
   {
     thema: "Komponenten",
-    frage: "Skizze eines Datenbanksystems: Welche Kästen stehen von oben nach unten?",
-    antwort: "Anwender und Anwendungsprogramme → Datenbankschnittstelle → DBMS → Datenbanken\n![Skizze Datenbanksystem](komponenten.png)"
+    frage: "Skizziere in einem Schaubild die Komponenten eines Datenbanksystems",
+    antwort: "![Skizze Datenbanksystem](komponenten.png)"
   },
   {
     thema: "Komponenten",

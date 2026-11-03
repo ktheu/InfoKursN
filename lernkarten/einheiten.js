@@ -5,4 +5,5 @@
 const EINHEITEN = [
   "../bedingungen/lernkarten/karten.js",
   "../datenbanken/lernkarten/karten.js",
+  "../datensicherheit1/lernkarten/karten.js",
 ];

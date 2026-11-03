@@ -27,7 +27,7 @@ lernkarten("Bedingungen", [
   },
   {
     thema: "if – else",
-    frage: "Schulnoten 1–6: Welche Bedingung prüft „die Note ist mindestens 4“?",
+    frage: "Schulnoten 1–6: Gegeben die Variable `note`. Welche Bedingung prüft „die Note ist mindestens 4“?",
     antwort: "`note <= 4`\n\nMindestens 4 heißt 1, 2, 3 oder 4. Kleinere Zahlen sind bessere Noten."
   },
   {
@@ -64,13 +64,8 @@ lernkarten("Bedingungen", [
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "In welcher Reihenfolge schreibt man die Belegungen von A, B, C in die Wahrheitstafel?",
-    antwort: "Wie die Binärzahlen: 000, 001, 010, 011, 100, 101, 110, 111"
-  },
-  {
-    thema: "Wahrheitstafeln",
-    frage: "Wann ist `A and B` gleich 1? Wann ist `A or B` gleich 1?",
-    antwort: "`A and B`: nur wenn **beide** 1 sind\n`A or B`: wenn **mindestens einer** 1 ist"
+    frage: "Wann ist `A and B` True? Wann ist `A or B` True?",
+    antwort: "`A and B`: nur wenn **beide** True sind\n`A or B`: wenn **mindestens einer** True ist"
   },
   {
     thema: "Wahrheitstafeln",
@@ -79,53 +74,43 @@ lernkarten("Bedingungen", [
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "Welche Hilfsspalten brauchst du für die Wahrheitstafel von `(A or B) and not A`?",
-    antwort: "`A or B` und `not A`"
+    frage: "A = False, B = True\n\nWert von `(A or B) and not A`?",
+    antwort: "**True**\n\nA or B = True, not A = True, also True and True = True"
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "A = 0, B = 1\n\nWert von `(A or B) and not A`?",
-    antwort: "**1**\n\nA or B = 1, not A = 1, also 1 and 1 = 1"
+    frage: "A = True, B = True\n\nWert von `(A or B) and not A`?",
+    antwort: "**False**\n\nnot A = False, damit ist der ganze and-Ausdruck False."
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "A = 1, B = 1\n\nWert von `(A or B) and not A`?",
-    antwort: "**0**\n\nnot A = 0, damit ist der ganze and-Ausdruck 0."
+    frage: "Für welche Belegung von A und B ist `(A or B) and not A` True?",
+    antwort: "Nur für **A = False, B = True**"
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "Für welche Belegung von A und B ist `(A or B) and not A` gleich 1?",
-    antwort: "Nur für **A = 0, B = 1**"
+    frage: "A = True, B = False, C = False\n\nWert von `(A and not B) or C`?",
+    antwort: "**True**\n\nnot B = True, A and not B = True, True or False = True"
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "A = 1, B = 0, C = 0\n\nWert von `(A and not B) or C`?",
-    antwort: "**1**\n\nnot B = 1, A and not B = 1, 1 or 0 = 1"
+    frage: "A = False, B = True, C = False\n\nWert von `(A and not B) or C`?",
+    antwort: "**False**\n\nA and not B = False, False or False = False"
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "A = 0, B = 1, C = 0\n\nWert von `(A and not B) or C`?",
-    antwort: "**0**\n\nA and not B = 0, 0 or 0 = 0"
+    frage: "A = True, B = False\n\nWert von `not A or B`?",
+    antwort: "**False**\n\nnot A = False, False or False = False"
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "Wann ist `(A and not B) or C` gleich 1?",
-    antwort: "Wenn **C = 1** ist, oder wenn **A = 1 und B = 0** ist."
+    frage: "Für welche Belegung ist `not (A and B)` False?",
+    antwort: "Nur für **A = True, B = True**"
   },
   {
     thema: "Wahrheitstafeln",
-    frage: "A = 1, B = 0\n\nWert von `not A or B`?",
-    antwort: "**0**\n\nnot A = 0, 0 or 0 = 0"
-  },
-  {
-    thema: "Wahrheitstafeln",
-    frage: "Für welche Belegung ist `not (A and B)` gleich 0?",
-    antwort: "Nur für **A = 1, B = 1**"
-  },
-  {
-    thema: "Wahrheitstafeln",
-    frage: "A = 1, B = 0, C = 1\n\nWert von `A and (B or not C)`?",
-    antwort: "**0**\n\nnot C = 0, B or not C = 0, 1 and 0 = 0"
+    frage: "A = True, B = False, C = True\n\nWert von `A and (B or not C)`?",
+    antwort: "**False**\n\nnot C = False, B or not C = False, True and False = False"
   },
   {
     thema: "Wahrheitstafeln",
@@ -151,43 +136,63 @@ lernkarten("Bedingungen", [
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "x ist größer als 10 und durch 5 teilbar.",
+    frage: "Gib einen Ausdruck an, der genau dann True ist, wenn x größer als 10 und durch 5 teilbar ist.",
     antwort: "`x > 10 and x % 5 == 0`"
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "x liegt zwischen 110 und 120 (einschließlich) oder ist durch 7 teilbar.",
+    frage: "Gib einen Ausdruck an, der genau dann True ist, wenn x zwischen 110 und 120 (einschließlich) liegt oder durch 7 teilbar ist.",
     antwort: "`(110 <= x and x <= 120) or x % 7 == 0`"
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "x ist negativ oder größer als 100.",
+    frage: "Gib einen Ausdruck an, der genau dann True ist, wenn x negativ oder größer als 100 ist.",
     antwort: "`x < 0 or x > 100`"
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "x ist durch 3 teilbar, aber nicht durch 9.",
+    frage: "Gib einen Ausdruck an, der genau dann True ist, wenn x durch 3 teilbar ist, aber nicht durch 9.",
     antwort: "`x % 3 == 0 and x % 9 != 0`"
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "x ist gerade und liegt zwischen 1 und 50 (einschließlich).",
+    frage: "Gib einen Ausdruck an, der genau dann True ist, wenn x gerade ist und zwischen 1 und 50 (einschließlich) liegt.",
     antwort: "`x % 2 == 0 and 1 <= x and x <= 50`"
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "x liegt **nicht** zwischen 10 und 20 (einschließlich).",
+    frage: "Gib einen Ausdruck an, der genau dann True ist, wenn x **nicht** zwischen 10 und 20 (einschließlich) liegt.",
     antwort: "`x < 10 or x > 20`\n\noder `not (10 <= x and x <= 20)`"
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "`x > 10 and x % 5 == 0`\n\nWahr oder falsch für x = 10, x = 15, x = 22?",
-    antwort: "x = 10 → falsch (nicht größer als 10)\nx = 15 → wahr\nx = 22 → falsch (nicht durch 5 teilbar)"
+    frage: "`x > 10 and x % 5 == 0`\n\nWelchen Wert hat der Ausdruck für x = 10?",
+    antwort: "**False**\n\n10 ist nicht größer als 10."
   },
   {
     thema: "Boolesche Ausdrücke",
-    frage: "`(110 <= x and x <= 120) or x % 7 == 0`\n\nWahr oder falsch für x = 14, x = 115, x = 121?",
-    antwort: "x = 14 → wahr (durch 7 teilbar)\nx = 115 → wahr (im Bereich)\nx = 121 → falsch"
+    frage: "`x > 10 and x % 5 == 0`\n\nWelchen Wert hat der Ausdruck für x = 15?",
+    antwort: "**True**\n\n15 ist größer als 10 und durch 5 teilbar."
+  },
+  {
+    thema: "Boolesche Ausdrücke",
+    frage: "`x > 10 and x % 5 == 0`\n\nWelchen Wert hat der Ausdruck für x = 22?",
+    antwort: "**False**\n\n22 ist nicht durch 5 teilbar."
+  },
+  {
+    thema: "Boolesche Ausdrücke",
+    frage: "`(110 <= x and x <= 120) or x % 7 == 0`\n\nWelchen Wert hat der Ausdruck für x = 14?",
+    antwort: "**True**\n\n14 ist durch 7 teilbar."
+  },
+  {
+    thema: "Boolesche Ausdrücke",
+    frage: "`(110 <= x and x <= 120) or x % 7 == 0`\n\nWelchen Wert hat der Ausdruck für x = 115?",
+    antwort: "**True**\n\n115 liegt zwischen 110 und 120."
+  },
+  {
+    thema: "Boolesche Ausdrücke",
+    frage: "`(110 <= x and x <= 120) or x % 7 == 0`\n\nWelchen Wert hat der Ausdruck für x = 121?",
+    antwort: "**False**\n\n121 liegt nicht zwischen 110 und 120 und ist nicht durch 7 teilbar."
   },
 
   // ---------- while-Schleife ----------
@@ -199,7 +204,7 @@ lernkarten("Bedingungen", [
   {
     thema: "while-Schleife",
     frage: "Wann entsteht eine **Endlosschleife**?",
-    antwort: "Wenn sich im Rumpf nichts ändert, was die Bedingung beeinflusst. Die Bedingung bleibt dann immer `True`."
+    antwort: "Wenn die Bedingung zu Beginn `True` ist und sich im Rumpf nichts ändert, was die Bedingung beeinflusst. Die Bedingung bleibt dann immer `True`."
   },
   {
     thema: "while-Schleife",
@@ -300,11 +305,6 @@ lernkarten("Bedingungen", [
   },
   {
     thema: "for und range",
-    frage: "Was wird ausgegeben?\n```\ni = 2\nfor k in range(i):\n    print(i+k)\n```",
-    antwort: "```\n2\n3\n```\nk ist 0 und 1."
-  },
-  {
-    thema: "for und range",
     frage: "Was wird ausgegeben?\n```\ni = 5\nfor k in range(3):\n    print(i)\n```",
     antwort: "```\n5\n5\n5\n```\nAusgegeben wird `i`, nicht `k`."
   },
@@ -312,11 +312,6 @@ lernkarten("Bedingungen", [
     thema: "for und range",
     frage: "Was wird ausgegeben?\n```\ni = 3\nfor k in range(1, i):\n    print(k * i)\n```",
     antwort: "```\n3\n6\n```\nk ist 1 und 2."
-  },
-  {
-    thema: "for und range",
-    frage: "Was wird ausgegeben?\n```\ns = 0\nfor k in range(4):\n    s += k\nprint(s)\n```",
-    antwort: "```\n6\n```\n0 + 1 + 2 + 3"
   },
   {
     thema: "for und range",
@@ -357,18 +352,8 @@ lernkarten("Bedingungen", [
   },
   {
     thema: "break und continue",
-    frage: "Warum müssen `continue` und `break` **vor** dem `print` stehen?",
-    antwort: "Sonst wird die Zahl ausgegeben, bevor übersprungen oder abgebrochen wird."
-  },
-  {
-    thema: "break und continue",
-    frage: "Welche Zahlen werden ausgegeben?\n```\nfor i in range(1, 31):\n    if i % 5 == 0:\n        continue\n    if i > 20:\n        break\n    print(i)\n```",
-    antwort: "1–4, 6–9, 11–14, 16–19\n\nDie 20 wird übersprungen, bei 21 wird abgebrochen."
-  },
-  {
-    thema: "break und continue",
-    frage: "Welche Zahlen werden ausgegeben?\n```\nfor i in range(1, 51):\n    if i % 3 == 0:\n        continue\n    if i > 10:\n        break\n    print(i)\n```",
-    antwort: "1, 2, 4, 5, 7, 8, 10"
+    frage: "Welche Zahlen werden ausgegeben?\n```\nfor i in range(1, 20):\n    if i % 3 == 0:\n        continue\n    if i > 5:\n        break\n    print(i)\n```",
+    antwort: "1, 2, 4, 5\n\nDie 3 und die 6 werden übersprungen, bei 7 wird abgebrochen."
   },
   {
     thema: "break und continue",
