@@ -38,7 +38,7 @@
 Übungsnotebooks zu Themen aus dem Basiskurs Informatik:
 - [Variablen, Datentypen, Initialisierung, Typumwandlung](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=variablen_uebungen.ipynb)
 - [Datensicherheit2](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=datensicherheit2_uebungen.ipynb) - Rechnen modulo n, Diffie-Hellman, RSA, Hashfunktionen, digitale Signatur
-- [SQL - Sportverein-Datenbank](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=sql_uebungen.ipynb)
+- [SQLite - Kinodatenbank](https://ktheu.github.io/python-uebungen/notebooks/index.html?path=sql_abfragen.ipynb)
 
 ---------
 
