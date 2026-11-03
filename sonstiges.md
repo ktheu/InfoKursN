@@ -30,7 +30,9 @@
 - [ASCII, Unicode, UTF-8](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb)
 - [Digitalisierung von Bildern und Audio](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb)
 - [Rechnernetze](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=netze_uebungen.ipynb)
-- [Kryptographie](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=datensicherheit1_uebungen.ipynb) - Skytale, Caesar, Permutation, Vigenère, One-Time-Pad 
+- [Datensicherheit1](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=datensicherheit1_uebungen.ipynb) - Skytale, Caesar, Permutation, Vigenère, One-Time-Pad 
+
+
 
 
 Übungsnotebooks zu Themen aus dem Basiskurs Informatik:
