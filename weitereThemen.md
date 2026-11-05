@@ -2,7 +2,7 @@
 
 -----
 
-- [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/inhalte/rekursiveBilder.ipynb)
+- [Rekursive Bilder](https://github.com/ktheu/InfoKursN/blob/main/rekursiveBilder/inhalte/rekursiveBilder.ipynb) - [Aufgaben](./rekursiveBilder/aufgaben/aufgaben.pdf) - [Lösungen](./rekursiveBilder/aufgaben/aufgaben_loes.pdf)
 - [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/mandelbrot.ipynb)
 
 -----
