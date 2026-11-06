@@ -9,6 +9,7 @@
 - [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
 - [Breitensuche](https://github.com/ktheu/InfoKursN/blob/main/search_bfs/inhalte/search_bfs.ipynb) - [Aufgaben](./search_bfs/aufgaben/aufgaben.pdf) - [Lösungen](./search_bfs/aufgaben/aufgaben_loes.pdf)
 - [Greedy und A*](https://github.com/ktheu/InfoKursN/blob/main/search_astar/inhalte/search_astar.ipynb) - [Aufgaben](./search_astar/aufgaben/aufgaben.pdf) - [Lösungen](./search_astar/aufgaben/aufgaben_loes.pdf)
+- [Beamsearch](https://github.com/ktheu/InfoKursN/blob/main/search_beamsearch/inhalte/search_beamsearch.ipynb) - [Aufgaben](./search_beamsearch/aufgaben/aufgaben.pdf) - [Lösungen](./search_beamsearch/aufgaben/aufgaben_loes.pdf)
 
 -----
 
