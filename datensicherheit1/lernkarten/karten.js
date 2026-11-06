@@ -141,12 +141,6 @@ lernkarten("Datensicherheit1", [
   {
     thema: "Cäsar-Chiffre",
     frage:
-      "Entschlüssele `KDOOR`, verschlüsselt mit der Cäsar-Chiffre und Schlüssel 3.",
-    antwort: "`HALLO`\n\nJeden Buchstaben um 3 zurückverschieben.",
-  },
-  {
-    thema: "Cäsar-Chiffre",
-    frage:
       "Mit `A` = 0, …, `Z` = 25: Wie berechnet man bei der Cäsar-Chiffre den Geheimbuchstaben?",
     antwort:
       "Geheimbuchstabe = (Klarbuchstabe + Schlüssel) mod 26\n\nEntschlüsseln: (Geheimbuchstabe − Schlüssel) mod 26",
