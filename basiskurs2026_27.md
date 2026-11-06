@@ -10,7 +10,7 @@
 - 16.10.2026 Datenbanken - Verbundabfragen bis Ende
 - 22.10.2026 Datenbanken - Übungen zu SQL-Anweisungen: sportverein-Aufgabe
 - Herbstferien
-- 05.11.2026
+- 05.11.2026 Informationsgesellschaft und Datensicherheit (Brückenkurs) - bis einschließlich Vigenere-Verschlüsselung
 - 06.11.2026
 - 12.11.2026
 - 19.11.2026
