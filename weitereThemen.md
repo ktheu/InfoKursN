@@ -6,6 +6,7 @@
 - [Mandelbrotmenge](https://github.com/ktheu/InfoKursN/blob/main/mandelbrot/inhalte/mandelbrot.ipynb) - [Aufgaben](./mandelbrot/aufgaben/aufgaben.pdf) - [Lösungen](./mandelbrot/aufgaben/aufgaben_loes.pdf)
 - [Logik und Schaltungen](https://github.com/ktheu/InfoKursN/blob/main/LogikUndSchaltungen/inhalte/LogikUndSchaltungen.ipynb) - [Aufgaben](./LogikUndSchaltungen/aufgaben/aufgaben.pdf) - [Lösungen](./LogikUndSchaltungen/aufgaben/aufgaben_loes.pdf)
 - [Binärer Suchbaum](https://github.com/ktheu/InfoKursN/blob/main/suchbaum/inhalte/binaererSuchbaum.ipynb) - [Aufgaben](./suchbaum/aufgaben/aufgaben.pdf) - [Lösungen](./suchbaum/aufgaben/aufgaben_loes.pdf)
+- [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
 
 -----
 
