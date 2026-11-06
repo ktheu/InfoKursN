@@ -7,6 +7,7 @@
 - [Logik und Schaltungen](https://github.com/ktheu/InfoKursN/blob/main/LogikUndSchaltungen/inhalte/LogikUndSchaltungen.ipynb) - [Aufgaben](./LogikUndSchaltungen/aufgaben/aufgaben.pdf) - [Lösungen](./LogikUndSchaltungen/aufgaben/aufgaben_loes.pdf)
 - [Binärer Suchbaum](https://github.com/ktheu/InfoKursN/blob/main/suchbaum/inhalte/binaererSuchbaum.ipynb) - [Aufgaben](./suchbaum/aufgaben/aufgaben.pdf) - [Lösungen](./suchbaum/aufgaben/aufgaben_loes.pdf)
 - [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
+- [Breitensuche](https://github.com/ktheu/InfoKursN/blob/main/search_bfs/inhalte/search_bfs.ipynb) - [Aufgaben](./search_bfs/aufgaben/aufgaben.pdf) - [Lösungen](./search_bfs/aufgaben/aufgaben_loes.pdf)
 
 -----
 
