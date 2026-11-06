@@ -11,6 +11,7 @@
 - [Greedy und A*](https://github.com/ktheu/InfoKursN/blob/main/search_astar/inhalte/search_astar.ipynb) - [Aufgaben](./search_astar/aufgaben/aufgaben.pdf) - [Lösungen](./search_astar/aufgaben/aufgaben_loes.pdf)
 - [Beamsearch](https://github.com/ktheu/InfoKursN/blob/main/search_beamsearch/inhalte/search_beamsearch.ipynb) - [Aufgaben](./search_beamsearch/aufgaben/aufgaben.pdf) - [Lösungen](./search_beamsearch/aufgaben/aufgaben_loes.pdf)
 - [Spielbaum](https://github.com/ktheu/InfoKursN/blob/main/spielbaum/inhalte/spielbaum.ipynb) - [Aufgaben](./spielbaum/aufgaben/aufgaben.pdf) - [Lösungen](./spielbaum/aufgaben/aufgaben_loes.pdf)
+- [Backtracking](https://github.com/ktheu/InfoKursN/blob/main/backtracking/inhalte/backtracking.ipynb) - [Aufgaben](./backtracking/aufgaben/aufgaben.pdf) - [Lösungen](./backtracking/aufgaben/aufgaben_loes.pdf)
 
 -----
 
