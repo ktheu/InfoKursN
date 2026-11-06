@@ -8,6 +8,7 @@
 - [Binärer Suchbaum](https://github.com/ktheu/InfoKursN/blob/main/suchbaum/inhalte/binaererSuchbaum.ipynb) - [Aufgaben](./suchbaum/aufgaben/aufgaben.pdf) - [Lösungen](./suchbaum/aufgaben/aufgaben_loes.pdf)
 - [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
 - [Breitensuche](https://github.com/ktheu/InfoKursN/blob/main/search_bfs/inhalte/search_bfs.ipynb) - [Aufgaben](./search_bfs/aufgaben/aufgaben.pdf) - [Lösungen](./search_bfs/aufgaben/aufgaben_loes.pdf)
+- [Greedy und A*](https://github.com/ktheu/InfoKursN/blob/main/search_astar/inhalte/search_astar.ipynb) - [Aufgaben](./search_astar/aufgaben/aufgaben.pdf) - [Lösungen](./search_astar/aufgaben/aufgaben_loes.pdf)
 
 -----
 
