@@ -13,6 +13,7 @@
 - [Spielbaum](https://github.com/ktheu/InfoKursN/blob/main/spielbaum/inhalte/spielbaum.ipynb) - [Aufgaben](./spielbaum/aufgaben/aufgaben.pdf) - [Lösungen](./spielbaum/aufgaben/aufgaben_loes.pdf)
 - [Backtracking](https://github.com/ktheu/InfoKursN/blob/main/backtracking/inhalte/backtracking.ipynb) - [Aufgaben](./backtracking/aufgaben/aufgaben.pdf) - [Lösungen](./backtracking/aufgaben/aufgaben_loes.pdf)
 - [Dynamisches Programmieren](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp.ipynb) - [Beispiele](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp_beispiele.ipynb) - [Aufgaben](./dynamischeProgrammierung/aufgaben/aufgaben.pdf) - [Lösungen](./dynamischeProgrammierung/aufgaben/aufgaben_loes.pdf)
+- [Halteproblem](https://github.com/ktheu/InfoKursN/blob/main/halteproblem/inhalte/halteproblem.ipynb) - [Aufgaben](./halteproblem/aufgaben/aufgaben.pdf) - [Lösungen](./halteproblem/aufgaben/aufgaben_loes.pdf)
 
 -----
 
