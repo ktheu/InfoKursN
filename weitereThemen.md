@@ -34,6 +34,7 @@ Neuronale Netze:
 - [Convolutional Neural Networks](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Aufgaben](./neuronaleNetze5/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze5/aufgaben/aufgaben_loes.pdf)
 - [Sprachmodelle](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Aufgaben](./neuronaleNetze6/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze6/aufgaben/aufgaben_loes.pdf)
 - [P = NP?](https://github.com/ktheu/InfoKursN/blob/main/p_np/inhalte/p_np.ipynb) - [Aufgaben](./p_np/aufgaben/aufgaben.pdf) - [Lösungen](./p_np/aufgaben/aufgaben_loes.pdf)
+- [Reguläre Sprachen](https://github.com/ktheu/InfoKursN/blob/main/automaten2/inhalte/regulaereSprachen.ipynb) - [Aufgaben](./automaten2/aufgaben/aufgaben.pdf) - [Lösungen](./automaten2/aufgaben/aufgaben_loes.pdf)
 
 -----
 
