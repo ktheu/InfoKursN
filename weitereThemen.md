@@ -8,6 +8,10 @@
 - [Binärer Suchbaum](https://github.com/ktheu/InfoKursN/blob/main/suchbaum/inhalte/binaererSuchbaum.ipynb) - [Aufgaben](./suchbaum/aufgaben/aufgaben.pdf) - [Lösungen](./suchbaum/aufgaben/aufgaben_loes.pdf)
 - [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
 - [Halteproblem](https://github.com/ktheu/InfoKursN/blob/main/halteproblem/inhalte/halteproblem.ipynb) - [Aufgaben](./halteproblem/aufgaben/aufgaben.pdf) - [Lösungen](./halteproblem/aufgaben/aufgaben_loes.pdf)
+- [Perzeptron und Neuron](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze1/inhalte/perzeptron.ipynb) - [Aufgaben](./neuronaleNetze1/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze1/aufgaben/aufgaben_loes.pdf)
+- [Gradientenabstieg](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze2/inhalte/gradientenabstieg.ipynb) - [Aufgaben](./neuronaleNetze2/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze2/aufgaben/aufgaben_loes.pdf)
+- [Backpropagation](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze3/inhalte/backpropagation.ipynb) - [Aufgaben](./neuronaleNetze3/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze3/aufgaben/aufgaben_loes.pdf)
+- [PyTorch und Bildklassifikation](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Aufgaben](./neuronaleNetze4/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze4/aufgaben/aufgaben_loes.pdf)
 
 ------
 
