@@ -7,9 +7,6 @@
 - [Logik und Schaltungen](https://github.com/ktheu/InfoKursN/blob/main/LogikUndSchaltungen/inhalte/LogikUndSchaltungen.ipynb) - [Aufgaben](./LogikUndSchaltungen/aufgaben/aufgaben.pdf) - [Lösungen](./LogikUndSchaltungen/aufgaben/aufgaben_loes.pdf)
 - [Binärer Suchbaum](https://github.com/ktheu/InfoKursN/blob/main/suchbaum/inhalte/binaererSuchbaum.ipynb) - [Aufgaben](./suchbaum/aufgaben/aufgaben.pdf) - [Lösungen](./suchbaum/aufgaben/aufgaben_loes.pdf)
 - [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
-- [Halteproblem](https://github.com/ktheu/InfoKursN/blob/main/halteproblem/inhalte/halteproblem.ipynb) - [Aufgaben](./halteproblem/aufgaben/aufgaben.pdf) - [Lösungen](./halteproblem/aufgaben/aufgaben_loes.pdf)
-
-
 
 ------
 Search-Algorithmen:
@@ -33,10 +30,14 @@ Neuronale Netze:
 - [PyTorch und Bildklassifikation](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Aufgaben](./neuronaleNetze4/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze4/aufgaben/aufgaben_loes.pdf)
 - [Convolutional Neural Networks](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Aufgaben](./neuronaleNetze5/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze5/aufgaben/aufgaben_loes.pdf)
 - [Sprachmodelle](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Aufgaben](./neuronaleNetze6/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze6/aufgaben/aufgaben_loes.pdf)
-- [P = NP?](https://github.com/ktheu/InfoKursN/blob/main/p_np/inhalte/p_np.ipynb) - [Aufgaben](./p_np/aufgaben/aufgaben.pdf) - [Lösungen](./p_np/aufgaben/aufgaben_loes.pdf)
+
+------
+
 - [Reguläre Sprachen](https://github.com/ktheu/InfoKursN/blob/main/automaten2/inhalte/regulaereSprachen.ipynb) - [Aufgaben](./automaten2/aufgaben/aufgaben.pdf) - [Lösungen](./automaten2/aufgaben/aufgaben_loes.pdf)
 - [Grammatiken](https://github.com/ktheu/InfoKursN/blob/main/grammatiken/inhalte/grammatiken.ipynb) - [Aufgaben](./grammatiken/aufgaben/aufgaben.pdf) - [Lösungen](./grammatiken/aufgaben/aufgaben_loes.pdf)
 - [Kellerautomaten](https://github.com/ktheu/InfoKursN/blob/main/kellerautomaten/inhalte/kellerautomaten.ipynb) - [Aufgaben](./kellerautomaten/aufgaben/aufgaben.pdf) - [Lösungen](./kellerautomaten/aufgaben/aufgaben_loes.pdf)
+- [Halteproblem](https://github.com/ktheu/InfoKursN/blob/main/halteproblem/inhalte/halteproblem.ipynb) - [Aufgaben](./halteproblem/aufgaben/aufgaben.pdf) - [Lösungen](./halteproblem/aufgaben/aufgaben_loes.pdf)
+-  [P = NP?](https://github.com/ktheu/InfoKursN/blob/main/p_np/inhalte/p_np.ipynb) - [Aufgaben](./p_np/aufgaben/aufgaben.pdf) - [Lösungen](./p_np/aufgaben/aufgaben_loes.pdf)
 
 -----
 
