@@ -9,6 +9,21 @@
 - [Hashing](https://github.com/ktheu/InfoKursN/blob/main/hashing/inhalte/hashing.ipynb) - [Aufgaben](./hashing/aufgaben/aufgaben.pdf) - [Lösungen](./hashing/aufgaben/aufgaben_loes.pdf)
 - [Halteproblem](https://github.com/ktheu/InfoKursN/blob/main/halteproblem/inhalte/halteproblem.ipynb) - [Aufgaben](./halteproblem/aufgaben/aufgaben.pdf) - [Lösungen](./halteproblem/aufgaben/aufgaben_loes.pdf)
 
+
+
+------
+Search-Algorithmen:
+
+- [Breitensuche](https://github.com/ktheu/InfoKursN/blob/main/search_bfs/inhalte/search_bfs.ipynb) - [Aufgaben](./search_bfs/aufgaben/aufgaben.pdf) - [Lösungen](./search_bfs/aufgaben/aufgaben_loes.pdf)
+- [Greedy und A*](https://github.com/ktheu/InfoKursN/blob/main/search_astar/inhalte/search_astar.ipynb) - [Aufgaben](./search_astar/aufgaben/aufgaben.pdf) - [Lösungen](./search_astar/aufgaben/aufgaben_loes.pdf)
+- [Beamsearch](https://github.com/ktheu/InfoKursN/blob/main/search_beamsearch/inhalte/search_beamsearch.ipynb) - [Aufgaben](./search_beamsearch/aufgaben/aufgaben.pdf) - [Lösungen](./search_beamsearch/aufgaben/aufgaben_loes.pdf)
+- [Spielbaum](https://github.com/ktheu/InfoKursN/blob/main/spielbaum/inhalte/spielbaum.ipynb) - [Aufgaben](./spielbaum/aufgaben/aufgaben.pdf) - [Lösungen](./spielbaum/aufgaben/aufgaben_loes.pdf)
+- [Backtracking](https://github.com/ktheu/InfoKursN/blob/main/backtracking/inhalte/backtracking.ipynb) - [Aufgaben](./backtracking/aufgaben/aufgaben.pdf) - [Lösungen](./backtracking/aufgaben/aufgaben_loes.pdf)
+
+------ 
+
+- [Dynamisches Programmieren](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp.ipynb) - [Beispiele](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp_beispiele.ipynb) - [Aufgaben](./dynamischeProgrammierung/aufgaben/aufgaben.pdf) - [Lösungen](./dynamischeProgrammierung/aufgaben/aufgaben_loes.pdf)
+
 ------ 
 Neuronale Netze:
 
@@ -18,16 +33,6 @@ Neuronale Netze:
 - [PyTorch und Bildklassifikation](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Aufgaben](./neuronaleNetze4/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze4/aufgaben/aufgaben_loes.pdf)
 - [Convolutional Neural Networks](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Aufgaben](./neuronaleNetze5/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze5/aufgaben/aufgaben_loes.pdf)
 - [Sprachmodelle](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Aufgaben](./neuronaleNetze6/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze6/aufgaben/aufgaben_loes.pdf)
-
-------
-
-- [Breitensuche](https://github.com/ktheu/InfoKursN/blob/main/search_bfs/inhalte/search_bfs.ipynb) - [Aufgaben](./search_bfs/aufgaben/aufgaben.pdf) - [Lösungen](./search_bfs/aufgaben/aufgaben_loes.pdf)
-- [Greedy und A*](https://github.com/ktheu/InfoKursN/blob/main/search_astar/inhalte/search_astar.ipynb) - [Aufgaben](./search_astar/aufgaben/aufgaben.pdf) - [Lösungen](./search_astar/aufgaben/aufgaben_loes.pdf)
-- [Beamsearch](https://github.com/ktheu/InfoKursN/blob/main/search_beamsearch/inhalte/search_beamsearch.ipynb) - [Aufgaben](./search_beamsearch/aufgaben/aufgaben.pdf) - [Lösungen](./search_beamsearch/aufgaben/aufgaben_loes.pdf)
-- [Spielbaum](https://github.com/ktheu/InfoKursN/blob/main/spielbaum/inhalte/spielbaum.ipynb) - [Aufgaben](./spielbaum/aufgaben/aufgaben.pdf) - [Lösungen](./spielbaum/aufgaben/aufgaben_loes.pdf)
-- [Backtracking](https://github.com/ktheu/InfoKursN/blob/main/backtracking/inhalte/backtracking.ipynb) - [Aufgaben](./backtracking/aufgaben/aufgaben.pdf) - [Lösungen](./backtracking/aufgaben/aufgaben_loes.pdf)
-- [Dynamisches Programmieren](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp.ipynb) - [Beispiele](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp_beispiele.ipynb) - [Aufgaben](./dynamischeProgrammierung/aufgaben/aufgaben.pdf) - [Lösungen](./dynamischeProgrammierung/aufgaben/aufgaben_loes.pdf)
-
 
 -----
 
