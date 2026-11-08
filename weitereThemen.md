@@ -22,6 +22,7 @@ Search-Algorithmen:
 - [Dynamisches Programmieren](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp.ipynb) - [Beispiele](https://github.com/ktheu/InfoKursN/blob/main/dynamischeProgrammierung/inhalte/dp_beispiele.ipynb) - [Aufgaben](./dynamischeProgrammierung/aufgaben/aufgaben.pdf) - [Lösungen](./dynamischeProgrammierung/aufgaben/aufgaben_loes.pdf)
 
 - [Entscheidungsbäume](https://github.com/ktheu/InfoKursN/blob/main/decisionTrees/inhalte/decision_trees.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/decisionTrees/inhalte/decision_trees.ipynb) - [Aufgaben](./decisionTrees/aufgaben/aufgaben.pdf) - [Lösungen](./decisionTrees/aufgaben/aufgaben_loes.pdf)
+- [Naiver Bayes](https://github.com/ktheu/InfoKursN/blob/main/naiverBayes/inhalte/naiver_bayes.ipynb) - [Movie Reviews](https://github.com/ktheu/InfoKursN/blob/main/naiverBayes/inhalte/moviereview.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/naiverBayes/inhalte/naiver_bayes.ipynb) - [Aufgaben](./naiverBayes/aufgaben/aufgaben.pdf) - [Lösungen](./naiverBayes/aufgaben/aufgaben_loes.pdf)
 
 ------ 
 Neuronale Netze:
@@ -41,6 +42,11 @@ Neuronale Netze:
 - [Turingmaschinen](https://github.com/ktheu/InfoKursN/blob/main/turingmaschinen/inhalte/turingmaschinen.ipynb) - [Aufgaben](./turingmaschinen/aufgaben/aufgaben.pdf) - [Lösungen](./turingmaschinen/aufgaben/aufgaben_loes.pdf)
 - [Halteproblem](https://github.com/ktheu/InfoKursN/blob/main/halteproblem/inhalte/halteproblem.ipynb) - [Aufgaben](./halteproblem/aufgaben/aufgaben.pdf) - [Lösungen](./halteproblem/aufgaben/aufgaben_loes.pdf)
 -  [P = NP?](https://github.com/ktheu/InfoKursN/blob/main/p_np/inhalte/p_np.ipynb) - [Aufgaben](./p_np/aufgaben/aufgaben.pdf) - [Lösungen](./p_np/aufgaben/aufgaben_loes.pdf)
+
+------
+
+- [Git](https://github.com/ktheu/InfoKursN/blob/main/git/inhalte/git.ipynb) - [Aufgaben](./git/aufgaben/aufgaben.pdf) - [Lösungen](./git/aufgaben/aufgaben_loes.pdf)
+- [GitHub](https://github.com/ktheu/InfoKursN/blob/main/github/inhalte/github.ipynb) - [Aufgaben](./github/aufgaben/aufgaben.pdf) - [Lösungen](./github/aufgaben/aufgaben_loes.pdf)
 
 -----
 
