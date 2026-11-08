@@ -35,6 +35,8 @@ Neuronale Netze:
 - [Sprachmodelle](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Aufgaben](./neuronaleNetze6/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze6/aufgaben/aufgaben_loes.pdf)
 - [P = NP?](https://github.com/ktheu/InfoKursN/blob/main/p_np/inhalte/p_np.ipynb) - [Aufgaben](./p_np/aufgaben/aufgaben.pdf) - [Lösungen](./p_np/aufgaben/aufgaben_loes.pdf)
 - [Reguläre Sprachen](https://github.com/ktheu/InfoKursN/blob/main/automaten2/inhalte/regulaereSprachen.ipynb) - [Aufgaben](./automaten2/aufgaben/aufgaben.pdf) - [Lösungen](./automaten2/aufgaben/aufgaben_loes.pdf)
+- [Grammatiken](https://github.com/ktheu/InfoKursN/blob/main/grammatiken/inhalte/grammatiken.ipynb) - [Aufgaben](./grammatiken/aufgaben/aufgaben.pdf) - [Lösungen](./grammatiken/aufgaben/aufgaben_loes.pdf)
+- [Kellerautomaten](https://github.com/ktheu/InfoKursN/blob/main/kellerautomaten/inhalte/kellerautomaten.ipynb) - [Aufgaben](./kellerautomaten/aufgaben/aufgaben.pdf) - [Lösungen](./kellerautomaten/aufgaben/aufgaben_loes.pdf)
 
 -----
 
