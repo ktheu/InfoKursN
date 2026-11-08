@@ -12,6 +12,8 @@
 - [Gradientenabstieg](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze2/inhalte/gradientenabstieg.ipynb) - [Aufgaben](./neuronaleNetze2/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze2/aufgaben/aufgaben_loes.pdf)
 - [Backpropagation](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze3/inhalte/backpropagation.ipynb) - [Aufgaben](./neuronaleNetze3/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze3/aufgaben/aufgaben_loes.pdf)
 - [PyTorch und Bildklassifikation](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze4/inhalte/pytorch.ipynb) - [Aufgaben](./neuronaleNetze4/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze4/aufgaben/aufgaben_loes.pdf)
+- [Convolutional Neural Networks](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze5/inhalte/cnn.ipynb) - [Aufgaben](./neuronaleNetze5/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze5/aufgaben/aufgaben_loes.pdf)
+- [Sprachmodelle](https://github.com/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Colab](https://colab.research.google.com/github/ktheu/InfoKursN/blob/main/neuronaleNetze6/inhalte/sprachmodelle.ipynb) - [Aufgaben](./neuronaleNetze6/aufgaben/aufgaben.pdf) - [Lösungen](./neuronaleNetze6/aufgaben/aufgaben_loes.pdf)
 
 ------
 
