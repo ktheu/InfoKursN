@@ -1,5 +1,13 @@
 ## Brückenkurs Informatik 
 
+------------------------
+
+Listen: für Inhalte nur bis einschließlich Listen.
+Aufgabenblatt: Aufgaben 1 - 10 
+Übungen: A1-A10
+
+------------------------
+
 Jugendwettbewerb Informatik: [https://jwinf.de/](https://jwinf.de/)
 
 Bei Erstanmeldung: Erst Gruppencode angeben (steht an der Tafel), 

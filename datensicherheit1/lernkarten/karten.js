@@ -135,8 +135,8 @@ lernkarten("Datensicherheit1", [
   },
   {
     thema: "Cäsar-Chiffre",
-    frage: "Verschlüssele `HUT` mit der Cäsar-Chiffre und Schlüssel 4.",
-    antwort: "`LYX`",
+    frage: "Verschlüssele `HUT` mit der Cäsar-Chiffre und Schlüssel 1.",
+    antwort: "`IVU`",
   },
   {
     thema: "Cäsar-Chiffre",
@@ -182,12 +182,12 @@ lernkarten("Datensicherheit1", [
     frage:
       "Warum ist bei einer beliebigen Permutation des Alphabets kein Brute-Force-Angriff möglich?",
     antwort:
-      "Es gibt 26! Schlüssel. Bei einer Milliarde Schlüssel pro Sekunde bräuchte ein Computer rund 13 Milliarden Jahre.",
+      "Es gibt viel zu viele Schlüssel, um sie alle auszuprobieren.",
   },
   {
     thema: "Häufigkeitsanalyse",
     frage: "Welcher Buchstabe ist in deutschen Texten am häufigsten?",
-    antwort: "**E** (etwa 17 %), danach N, I, S, R, A, T",
+    antwort: "**E**",
   },
   {
     thema: "Häufigkeitsanalyse",
@@ -219,8 +219,8 @@ lernkarten("Datensicherheit1", [
   {
     thema: "Vigenère-Chiffre",
     frage:
-      "Vigenère: Klartextbuchstabe `N`, Schlüsselbuchstabe `O`. Welcher Geheimtextbuchstabe entsteht?",
-    antwort: "`B`\n\nN = 13, O = 14, 13 + 14 = 27, 27 mod 26 = 1 → B",
+      "Vigenère: Klartextbuchstabe `C`, Schlüsselbuchstabe `B`. Welcher Geheimtextbuchstabe entsteht?",
+    antwort: "`D`\n\nC = 2, B = 1, 2 + 1 = 3 → D",
   },
   {
     thema: "Vigenère-Chiffre",
@@ -296,14 +296,14 @@ lernkarten("Datensicherheit1", [
   {
     thema: "Angriff auf Vigenère",
     frage:
-      "Im ersten Teiltext ist `O` am häufigsten. Man nimmt an, dass `O` für `E` steht.\nWie groß ist die Verschiebung?",
-    antwort: "**10**\n\nE = 4, O = 14, 14 − 4 = 10",
+      "Im ersten Teiltext ist `G` am häufigsten. Man nimmt an, dass `G` für `E` steht.\nWie groß ist die Verschiebung?",
+    antwort: "**2**\n\nE = 4, G = 6, 6 − 4 = 2",
   },
   {
     thema: "Angriff auf Vigenère",
     frage:
-      "Ein Teiltext ist um 10 verschoben. Welcher Buchstabe des Schlüsselworts gehört dazu?",
-    antwort: "`K` (A = 0, …, K = 10)",
+      "Ein Teiltext ist um 3 verschoben. Welcher Buchstabe des Schlüsselworts gehört dazu?",
+    antwort: "`D` (A = 0, B = 1, C = 2, D = 3)",
   },
 
   // ---------- One-Time-Pad ----------

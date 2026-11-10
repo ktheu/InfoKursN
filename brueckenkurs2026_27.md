@@ -7,7 +7,7 @@
 - 14.10.2026: Grundlagen fertig, Aufgaben + Übungen zu Grundlagen
 - 21.10.2026: Grundlagen: Bedingungen und Schleifen, Aufgaben + Übungen 
 - Herbstferien
-- 04.11.2026:
+- 04.11.2026: jwinf-Trainingsaufgaben zu Bedingungen und Schleifen  
 - 11.11.2026:
 - 18.11.2026:
 - 25.11.2026:
