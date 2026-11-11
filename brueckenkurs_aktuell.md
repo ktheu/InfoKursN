@@ -6,6 +6,9 @@ Listen: für Inhalte nur bis einschließlich Listen.
 Aufgabenblatt: Aufgaben 1 - 10 
 Übungen: A1-A10
 
+Nur 10c: [Bibertest](https://wettbewerb.informatik-biber.de/quiz/a330a66cb7109de7)
+
+
 ------------------------
 
 Jugendwettbewerb Informatik: [https://jwinf.de/](https://jwinf.de/)
