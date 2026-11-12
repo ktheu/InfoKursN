@@ -617,11 +617,4 @@ lernkarten("Datensicherheit1", [
     antwort:
       "**Nein.** Webseiten sehen weiterhin die **IP-Adresse**, und auch Provider oder Schulnetz können den Datenverkehr sehen.",
   },
-  {
-    thema: "Anonymer Modus",
-    frage:
-      "Du meldest dich im anonymen Modus bei einem Dienst mit deinem Konto an. Was bedeutet das für deine Anonymität bei diesem Dienst?",
-    antwort:
-      "Der Dienst weiß, **wer** du bist, und kann dein Verhalten in dieser Sitzung deinem Konto zuordnen.",
-  },
 ]);

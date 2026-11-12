@@ -9,4 +9,5 @@ const EINHEITEN = [
   "../listen/lernkarten/karten.js",
   "../datenbanken/lernkarten/karten.js",
   "../datensicherheit1/lernkarten/karten.js",
+  "../datensicherheit2/lernkarten/karten.js",
 ];
