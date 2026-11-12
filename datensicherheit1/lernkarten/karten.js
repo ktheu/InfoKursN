@@ -589,4 +589,39 @@ lernkarten("Datensicherheit1", [
       "Welche Grundregel gilt bei der Eingabe persönlicher Angaben in Apps und auf Webseiten?",
     antwort: "Nur die Angaben machen, die wirklich **notwendig** sind.",
   },
+  {
+    thema: "Anonymer Modus",
+    frage:
+      "Was passiert mit dem Verlauf und den Cookies, wenn man ein Fenster im anonymen Modus des Browsers schließt?",
+    antwort:
+      "Der Browser speichert **keinen Verlauf**, und die Cookies der Sitzung werden **gelöscht**.",
+  },
+  {
+    thema: "Anonymer Modus",
+    frage:
+      "Wovor schützt der anonyme Modus des Browsers, wenn man einen Computer mit anderen teilt?",
+    antwort:
+      "Andere Personen, die denselben Computer benutzen, finden keine Spuren der Sitzung (Verlauf, Cookies, Logins).",
+  },
+  {
+    thema: "Anonymer Modus",
+    frage:
+      "Warum kann eine Webseite einen Nutzer im anonymen Modus nicht über sein altes Cookie wiedererkennen?",
+    antwort:
+      "Im anonymen Fenster sind die Cookies aus früheren Sitzungen **nicht sichtbar**. Die Seite bekommt eine neue Sitzung ohne die alte Nutzer-ID.",
+  },
+  {
+    thema: "Anonymer Modus",
+    frage:
+      "Ist man im anonymen Modus des Browsers anonym im Internet? Begründe deine Antwort.",
+    antwort:
+      "**Nein.** Webseiten sehen weiterhin die **IP-Adresse**, und auch Provider oder Schulnetz können den Datenverkehr sehen.",
+  },
+  {
+    thema: "Anonymer Modus",
+    frage:
+      "Du meldest dich im anonymen Modus bei einem Dienst mit deinem Konto an. Was bedeutet das für deine Anonymität bei diesem Dienst?",
+    antwort:
+      "Der Dienst weiß, **wer** du bist, und kann dein Verhalten in dieser Sitzung deinem Konto zuordnen.",
+  },
 ]);
