@@ -1,6 +1,6 @@
 ## Brückenkurs Informatik 
 
-Für Klassenarbeit: 
+Für Klassenarbeit (bisher): 
 
 - Einführung, Thonny - Aufgabenblatt 
 - Grundlagen - Aufgabenblatt 

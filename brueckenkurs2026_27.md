@@ -11,8 +11,8 @@
 - 11.11.2026: Grundlagen: Listen... bis einschließlich Schleifen über Listen, Informatik-Biber
 - 18.11.2026: Grundlagen: Zufallszahlen, Aufgaben + Übungen zu Listen und Zufallszahlen
 - 25.11.2026:
-- 02.12.2026: Klassenarbeit
-- 09.12.2026:
+- 02.12.2026: 
+- 09.12.2026: Klassenarbeit
 - 16.12.2026:
 - Weihnachtsferien
 - 13.01.2027:  
