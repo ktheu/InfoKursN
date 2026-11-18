@@ -9,7 +9,7 @@
 - Herbstferien
 - 04.11.2026: jwinf-Trainingsaufgaben zu Bedingungen und Schleifen  
 - 11.11.2026: Grundlagen: Listen... bis einschließlich Schleifen über Listen, Informatik-Biber
-- 18.11.2026:
+- 18.11.2026: Grundlagen: Zufallszahlen, Aufgaben + Übungen zu Listen und Zufallszahlen
 - 25.11.2026:
 - 02.12.2026: Klassenarbeit
 - 09.12.2026:

@@ -7,6 +7,7 @@ const EINHEITEN = [
   "../grundlagen/lernkarten/karten.js",
   "../bedingungen/lernkarten/karten.js",
   "../listen/lernkarten/karten.js",
+  "../fehler/lernkarten/karten.js",
   "../datenbanken/lernkarten/karten.js",
   "../datensicherheit1/lernkarten/karten.js",
   "../datensicherheit2/lernkarten/karten.js",
