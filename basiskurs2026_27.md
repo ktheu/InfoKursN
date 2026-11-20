@@ -13,7 +13,7 @@
 - 05.11.2026 Informationsgesellschaft und Datensicherheit (Brückenkurs) - bis einschließlich Vigenere-Verschlüsselung
 - 06.11.2026 Informationsgesellschaft und Datensicherheit (Brückenkurs) - bis einschließlich Kerckhoffsches Prinzip
 - 12.11.2026 Informationsgesellschaft und Datensicherheit (Brückenkurs) - bis Ende 
-- 19.11.2026
+- 19.11.2026 Informationsgesellschaft und Datensicherheit (Basiskurs) bis vor Modulo Rechnungen, Informatik-Biber
 - 20.11.2026 Klausur, Themen: Datenbanken, Informationsgesellschaft und Datensicherheit (Brückenkurs)  
 - 26.11.2026
 - 03.12.2026
