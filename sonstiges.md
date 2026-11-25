@@ -26,7 +26,7 @@
 
 Übungsnotebooks zu Themen aus dem Brückenkurs Informatik:
 
-- [Python für jwinf](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=jwinf_uebungen.ipynb) |
+- [Python für jwinf](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=jwinf_uebungen.ipynb)
 - [Bits und Bytes](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=bitsUndBytes_uebungen.ipynb)
 - [ASCII, Unicode, UTF-8](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=unicode_uebungen.ipynb)
 - [Digitalisierung von Bildern und Audio](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=digitalisierung_uebungen.ipynb)
