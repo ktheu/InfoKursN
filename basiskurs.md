@@ -86,3 +86,4 @@
 -----
 
 - [Tagebuch](./basiskurs2026_27.md) - [Merkhilfen](./merkhilfen/merkhilfen.md) - [Zettel](https://ktheu.github.io/Infokurs_Uebungen/notebooks/index.html?path=zettel.ipynb)
+- [Klausur](./2026-27-Inf_Basis_1_loes.pdf)
