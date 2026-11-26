@@ -10,7 +10,7 @@
 - 04.11.2026: jwinf-Trainingsaufgaben zu Bedingungen und Schleifen  
 - 11.11.2026: Grundlagen: Listen... bis einschließlich Schleifen über Listen, Informatik-Biber
 - 18.11.2026: Grundlagen: Zufallszahlen, Aufgaben + Übungen zu Listen und Zufallszahlen
-- 25.11.2026:
+- 25.11.2026: Grundlagen: Funktionen, jwinf-Aufgaben zu Funktionen
 - 02.12.2026: 
 - 09.12.2026: Klassenarbeit
 - 16.12.2026:
