@@ -15,7 +15,7 @@
 - 12.11.2026 Informationsgesellschaft und Datensicherheit (Brückenkurs) - bis Ende 
 - 19.11.2026 Informationsgesellschaft und Datensicherheit (Basiskurs) bis vor Modulo Rechnungen, Informatik-Biber
 - 20.11.2026 Klausur, Themen: Datenbanken, Informationsgesellschaft und Datensicherheit (Brückenkurs)  
-- 26.11.2026
+- 26.11.2026 Rückgabe Klausur, Informationsgesellschaft und Datensicherheit (Basiskurs) bis einschließlich powermod-Verfahren
 - 03.12.2026
 - 04.12.2026  
 - 10.12.2026
